@@ -1,0 +1,1251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="www.thenation.com" label="www.thenation.com" />
+      <node id="www.theatlantic.com" label="www.theatlantic.com" />
+      <node id="www.euractiv.com" label="www.euractiv.com" />
+      <node id="newsbusters.org" label="newsbusters.org" />
+      <node id="theslot.jezebel.com" label="theslot.jezebel.com" />
+      <node id="www.bbc.com" label="www.bbc.com" />
+      <node id="grist.org" label="grist.org" />
+      <node id="www.thestreet.com" label="www.thestreet.com" />
+      <node id="www.bloomberg.com" label="www.bloomberg.com" />
+      <node id="www.barrons.com" label="www.barrons.com" />
+      <node id="www.thestar.com" label="www.thestar.com" />
+      <node id="www.pbs.org" label="www.pbs.org" />
+      <node id="www.thedailybeast.com" label="www.thedailybeast.com" />
+      <node id="elitedaily.com" label="elitedaily.com" />
+      <node id="thinkprogress.org" label="thinkprogress.org" />
+      <node id="www.transylvaniatimes.com" label="www.transylvaniatimes.com" />
+      <node id="www.crowdfundinsider.com" label="www.crowdfundinsider.com" />
+      <node id="www.ksdk.com" label="www.ksdk.com" />
+      <node id="chicago.suntimes.com" label="chicago.suntimes.com" />
+      <node id="www.aol.com" label="www.aol.com" />
+      <node id="www.hastingstribune.com" label="www.hastingstribune.com" />
+      <node id="www.salon.com" label="www.salon.com" />
+      <node id="wdtn.com" label="wdtn.com" />
+      <node id="prospect.org" label="prospect.org" />
+      <node id="flathatnews.com" label="flathatnews.com" />
+      <node id="www.charlotteobserver.com" label="www.charlotteobserver.com" />
+      <node id="www.usnews.com" label="www.usnews.com" />
+      <node id="www.wapt.com" label="www.wapt.com" />
+      <node id="blogs.mprnews.org" label="blogs.mprnews.org" />
+      <node id="miamistudent.net" label="miamistudent.net" />
+      <node id="www.belfasttelegraph.co.uk" label="www.belfasttelegraph.co.uk" />
+      <node id="www.pinknews.co.uk" label="www.pinknews.co.uk" />
+      <node id="www.middleeasteye.net" label="www.middleeasteye.net" />
+      <node id="www.usmagazine.com" label="www.usmagazine.com" />
+      <node id="www.stltoday.com" label="www.stltoday.com" />
+      <node id="jalopnik.com" label="jalopnik.com" />
+      <node id="www.nydailynews.com" label="www.nydailynews.com" />
+      <node id="www.register-herald.com" label="www.register-herald.com" />
+      <node id="thecreatorsproject.vice.com" label="thecreatorsproject.vice.com" />
+      <node id="www.businessinsider.com" label="www.businessinsider.com" />
+      <node id="www.themaneater.com" label="www.themaneater.com" />
+      <node id="phys.org" label="phys.org" />
+      <node id="www.nytimes.com" label="www.nytimes.com" />
+      <node id="www.pcr-online.biz" label="www.pcr-online.biz" />
+      <node id="money.cnn.com" label="money.cnn.com" />
+      <node id="www.desmoinesregister.com" label="www.desmoinesregister.com" />
+      <node id="www.crossmap.com" label="www.crossmap.com" />
+      <node id="www.natlawreview.com" label="www.natlawreview.com" />
+      <node id="redalertpolitics.com" label="redalertpolitics.com" />
+      <node id="news.stanford.edu" label="news.stanford.edu" />
+      <node id="www.news4jax.com" label="www.news4jax.com" />
+      <node id="www.reuters.com" label="www.reuters.com" />
+      <node id="philadelphia.cbslocal.com" label="philadelphia.cbslocal.com" />
+      <node id="floridapolitics.com" label="floridapolitics.com" />
+      <node id="nymag.com" label="nymag.com" />
+      <node id="patriotpost.us" label="patriotpost.us" />
+      <node id="www.newsday.com" label="www.newsday.com" />
+      <node id="www.ibtimes.com" label="www.ibtimes.com" />
+      <node id="www.businessinsurance.com" label="www.businessinsurance.com" />
+      <node id="www.wfaa.com" label="www.wfaa.com" />
+      <node id="news.xinhuanet.com" label="news.xinhuanet.com" />
+      <node id="www.dw.com" label="www.dw.com" />
+      <node id="www.nola.com" label="www.nola.com" />
+      <node id="www.middleeastmonitor.com" label="www.middleeastmonitor.com" />
+      <node id="www.marketwatch.com" label="www.marketwatch.com" />
+      <node id="www.wmur.com" label="www.wmur.com" />
+      <node id="registerguard.com" label="registerguard.com" />
+      <node id="www.essence.com" label="www.essence.com" />
+      <node id="www.motherjones.com" label="www.motherjones.com" />
+      <node id="www.govconwire.com" label="www.govconwire.com" />
+      <node id="www.digitaltrends.com" label="www.digitaltrends.com" />
+      <node id="www.gopusa.com" label="www.gopusa.com" />
+      <node id="www.guns.com" label="www.guns.com" />
+      <node id="skift.com" label="skift.com" />
+      <node id="www.rt.com" label="www.rt.com" />
+      <node id="wtop.com" label="wtop.com" />
+      <node id="www.cbsnews.com" label="www.cbsnews.com" />
+      <node id="www.hellenicshippingnews.com" label="www.hellenicshippingnews.com" />
+      <node id="www.reviewjournal.com" label="www.reviewjournal.com" />
+      <node id="trailblazersblog.dallasnews.com" label="trailblazersblog.dallasnews.com" />
+      <node id="www.cnbc.com" label="www.cnbc.com" />
+      <node id="townhall.com" label="townhall.com" />
+      <node id="www.fool.com" label="www.fool.com" />
+      <node id="www.azcentral.com" label="www.azcentral.com" />
+      <node id="www.treehugger.com" label="www.treehugger.com" />
+      <node id="www.indystar.com" label="www.indystar.com" />
+      <node id="www.citizen-times.com" label="www.citizen-times.com" />
+      <node id="www.newsmax.com" label="www.newsmax.com" />
+      <node id="allafrica.com" label="allafrica.com" />
+      <node id="newrepublic.com" label="newrepublic.com" />
+      <node id="www.sacbee.com" label="www.sacbee.com" />
+      <node id="www.theguardian.com" label="www.theguardian.com" />
+      <node id="www.popsci.com" label="www.popsci.com" />
+      <node id="www.forbes.com" label="www.forbes.com" />
+      <node id="www.cincinnati.com" label="www.cincinnati.com" />
+      <node id="www.greenbiz.com" label="www.greenbiz.com" />
+      <node id="variety.com" label="variety.com" />
+      <node id="patch.com" label="patch.com" />
+      <node id="www.csmonitor.com" label="www.csmonitor.com" />
+      <node id="www.dispatch.com" label="www.dispatch.com" />
+      <node id="wjon.com" label="wjon.com" />
+      <node id="www.genomeweb.com" label="www.genomeweb.com" />
+      <node id="billmoyers.com" label="billmoyers.com" />
+      <node id="www.afr.com" label="www.afr.com" />
+      <node id="www.newyorker.com" label="www.newyorker.com" />
+      <node id="www.huffingtonpost.com" label="www.huffingtonpost.com" />
+      <node id="www.usatoday.com" label="www.usatoday.com" />
+      <node id="www.upi.com" label="www.upi.com" />
+      <node id="www.washingtonpost.com" label="www.washingtonpost.com" />
+      <node id="wealthmanagement.com" label="wealthmanagement.com" />
+      <node id="www.politico.com" label="www.politico.com" />
+      <node id="www.newshub.co.nz" label="www.newshub.co.nz" />
+      <node id="abc7ny.com" label="abc7ny.com" />
+      <node id="www.marinij.com" label="www.marinij.com" />
+      <node id="www.christiandaily.com" label="www.christiandaily.com" />
+      <node id="www.freep.com" label="www.freep.com" />
+      <node id="www.seattletimes.com" label="www.seattletimes.com" />
+      <node id="healthcare.utah.edu" label="healthcare.utah.edu" />
+      <node id="dunyanews.tv" label="dunyanews.tv" />
+      <node id="www.mmtimes.com" label="www.mmtimes.com" />
+      <node id="www.kykernel.com" label="www.kykernel.com" />
+      <node id="m.starrfmonline.com" label="m.starrfmonline.com" />
+      <node id="www.bankrate.com" label="www.bankrate.com" />
+      <node id="blogs.wsj.com" label="blogs.wsj.com" />
+      <node id="www.sj-r.com" label="www.sj-r.com" />
+      <node id="cnsnews.com" label="cnsnews.com" />
+      <node id="portlandtribune.com" label="portlandtribune.com" />
+      <node id="time.com" label="time.com" />
+      <node id="www.popularmechanics.com" label="www.popularmechanics.com" />
+      <node id="www.scpr.org" label="www.scpr.org" />
+      <node id="www.altfi.com" label="www.altfi.com" />
+      <node id="www.npr.org" label="www.npr.org" />
+      <node id="www.moneytalksnews.com" label="www.moneytalksnews.com" />
+      <node id="www.berkshireeagle.com" label="www.berkshireeagle.com" />
+      <node id="www.jpost.com" label="www.jpost.com" />
+      <node id="www.breitbart.com" label="www.breitbart.com" />
+      <node id="www.rigzone.com" label="www.rigzone.com" />
+      <node id="blogs.spectator.co.uk" label="blogs.spectator.co.uk" />
+      <node id="www.startupsmart.com.au" label="www.startupsmart.com.au" />
+      <node id="blog.ucsusa.org" label="blog.ucsusa.org" />
+      <node id="wiat.com" label="wiat.com" />
+      <node id="theweek.com" label="theweek.com" />
+      <node id="www.theverge.com" label="www.theverge.com" />
+      <node id="www.kmbc.com" label="www.kmbc.com" />
+      <node id="www.wsj.com" label="www.wsj.com" />
+      <node id="www.4029tv.com" label="www.4029tv.com" />
+      <node id="www.cleveland.com" label="www.cleveland.com" />
+      <node id="www.houmatoday.com" label="www.houmatoday.com" />
+      <node id="espn.go.com" label="espn.go.com" />
+      <node id="www.lifenews.com" label="www.lifenews.com" />
+      <node id="www.chicagotribune.com" label="www.chicagotribune.com" />
+      <node id="www.yahoo.com" label="www.yahoo.com" />
+      <node id="www.cbc.ca" label="www.cbc.ca" />
+      <node id="www.timesargus.com" label="www.timesargus.com" />
+      <node id="www.ktvu.com" label="www.ktvu.com" />
+      <node id="www.fredericksburg.com" label="www.fredericksburg.com" />
+      <node id="gawker.com" label="gawker.com" />
+      <node id="live.baltimoresun.com" label="live.baltimoresun.com" />
+      <node id="www.cnn.com" label="www.cnn.com" />
+      <node id="frontrow.dmagazine.com" label="frontrow.dmagazine.com" />
+      <node id="www.startribune.com" label="www.startribune.com" />
+      <node id="thehill.com" label="thehill.com" />
+      <node id="dailycaller.com" label="dailycaller.com" />
+      <node id="www.foxnews.com" label="www.foxnews.com" />
+      <node id="www.philly.com" label="www.philly.com" />
+      <node id="www.nbcnews.com" label="www.nbcnews.com" />
+      <node id="www.slate.com" label="www.slate.com" />
+      <node id="www.uppermichiganssource.com" label="www.uppermichiganssource.com" />
+      <node id="www.scientificamerican.com" label="www.scientificamerican.com" />
+      <node id="nypost.com" label="nypost.com" />
+      <node id="www.theblaze.com" label="www.theblaze.com" />
+      <node id="abcnews.go.com" label="abcnews.go.com" />
+      <node id="www.latimes.com" label="www.latimes.com" />
+      <node id="www.factcheck.org" label="www.factcheck.org" />
+      <node id="screencrush.com" label="screencrush.com" />
+      <node id="www.prnewswire.com" label="www.prnewswire.com" />
+      <node id="www.attn.com" label="www.attn.com" />
+      <node id="www.bostonglobe.com" label="www.bostonglobe.com" />
+      <node id="thefederalist.com" label="thefederalist.com" />
+      <node id="ottawacitizen.com" label="ottawacitizen.com" />
+      <node id="theferret.scot" label="theferret.scot" />
+      <node id="reason.com" label="reason.com" />
+      <node id="news.vice.com" label="news.vice.com" />
+    </nodes>
+    <edges>
+      <edge id="0" source="www.thenation.com" target="www.latimes.com" weight="1" />
+      <edge id="1" source="www.thenation.com" target="www.businessinsider.com" weight="1" />
+      <edge id="2" source="www.thenation.com" target="www.thedailybeast.com" weight="1" />
+      <edge id="3" source="www.thenation.com" target="nypost.com" weight="1" />
+      <edge id="4" source="www.thenation.com" target="www.cnn.com" weight="1" />
+      <edge id="5" source="www.thenation.com" target="abcnews.go.com" weight="1" />
+      <edge id="6" source="www.thenation.com" target="time.com" weight="1" />
+      <edge id="7" source="www.thenation.com" target="www.nytimes.com" weight="1" />
+      <edge id="8" source="www.theatlantic.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="9" source="www.theatlantic.com" target="www.essence.com" weight="1" />
+      <edge id="10" source="www.theatlantic.com" target="www.usatoday.com" weight="1" />
+      <edge id="11" source="www.theatlantic.com" target="www.cbsnews.com" weight="1" />
+      <edge id="12" source="www.theatlantic.com" target="news.xinhuanet.com" weight="1" />
+      <edge id="13" source="www.theatlantic.com" target="abc7ny.com" weight="1" />
+      <edge id="14" source="www.theatlantic.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="15" source="www.theatlantic.com" target="philadelphia.cbslocal.com" weight="1" />
+      <edge id="16" source="www.theatlantic.com" target="www.startribune.com" weight="1" />
+      <edge id="17" source="www.euractiv.com" target="patriotpost.us" weight="1" />
+      <edge id="18" source="www.euractiv.com" target="www.upi.com" weight="1" />
+      <edge id="19" source="www.euractiv.com" target="ottawacitizen.com" weight="1" />
+      <edge id="20" source="www.euractiv.com" target="www.theguardian.com" weight="1" />
+      <edge id="21" source="www.euractiv.com" target="variety.com" weight="1" />
+      <edge id="22" source="www.euractiv.com" target="www.azcentral.com" weight="1" />
+      <edge id="23" source="www.euractiv.com" target="www.treehugger.com" weight="1" />
+      <edge id="24" source="www.euractiv.com" target="newsbusters.org" weight="1" />
+      <edge id="25" source="newsbusters.org" target="patriotpost.us" weight="1" />
+      <edge id="26" source="newsbusters.org" target="www.upi.com" weight="1" />
+      <edge id="27" source="newsbusters.org" target="ottawacitizen.com" weight="1" />
+      <edge id="28" source="newsbusters.org" target="www.theguardian.com" weight="1" />
+      <edge id="29" source="newsbusters.org" target="variety.com" weight="1" />
+      <edge id="30" source="newsbusters.org" target="www.azcentral.com" weight="1" />
+      <edge id="31" source="newsbusters.org" target="www.treehugger.com" weight="1" />
+      <edge id="32" source="theslot.jezebel.com" target="www.wsj.com" weight="1" />
+      <edge id="33" source="theslot.jezebel.com" target="www.cnbc.com" weight="1" />
+      <edge id="34" source="theslot.jezebel.com" target="www.foxnews.com" weight="1" />
+      <edge id="35" source="theslot.jezebel.com" target="www.thedailybeast.com" weight="1" />
+      <edge id="36" source="theslot.jezebel.com" target="www.salon.com" weight="1" />
+      <edge id="37" source="theslot.jezebel.com" target="www.theguardian.com" weight="1" />
+      <edge id="38" source="theslot.jezebel.com" target="www.nytimes.com" weight="1" />
+      <edge id="39" source="theslot.jezebel.com" target="www.indystar.com" weight="1" />
+      <edge id="40" source="theslot.jezebel.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="41" source="www.bbc.com" target="www.foxnews.com" weight="1" />
+      <edge id="42" source="www.bbc.com" target="www.usatoday.com" weight="1" />
+      <edge id="43" source="www.bbc.com" target="wtop.com" weight="1" />
+      <edge id="44" source="www.bbc.com" target="www.nbcnews.com" weight="1" />
+      <edge id="45" source="www.bbc.com" target="m.starrfmonline.com" weight="1" />
+      <edge id="46" source="www.bbc.com" target="www.cnn.com" weight="1" />
+      <edge id="47" source="www.bbc.com" target="patch.com" weight="1" />
+      <edge id="48" source="www.bbc.com" target="newrepublic.com" weight="1" />
+      <edge id="49" source="www.bbc.com" target="www.cnbc.com" weight="1" />
+      <edge id="50" source="www.bbc.com" target="live.baltimoresun.com" weight="1" />
+      <edge id="51" source="www.bbc.com" target="www.dispatch.com" weight="1" />
+      <edge id="52" source="www.bbc.com" target="www.4029tv.com" weight="1" />
+      <edge id="53" source="www.bbc.com" target="www.forbes.com" weight="1" />
+      <edge id="54" source="www.bbc.com" target="abcnews.go.com" weight="1" />
+      <edge id="55" source="grist.org" target="healthcare.utah.edu" weight="1" />
+      <edge id="56" source="grist.org" target="www.fredericksburg.com" weight="1" />
+      <edge id="57" source="grist.org" target="dunyanews.tv" weight="1" />
+      <edge id="58" source="grist.org" target="www.hastingstribune.com" weight="1" />
+      <edge id="59" source="grist.org" target="www.kmbc.com" weight="1" />
+      <edge id="60" source="grist.org" target="www.attn.com" weight="1" />
+      <edge id="61" source="grist.org" target="thinkprogress.org" weight="1" />
+      <edge id="62" source="grist.org" target="www.huffingtonpost.com" weight="1" />
+      <edge id="63" source="grist.org" target="www.ksdk.com" weight="1" />
+      <edge id="64" source="www.thestreet.com" target="thefederalist.com" weight="1" />
+      <edge id="65" source="www.thestreet.com" target="www.breitbart.com" weight="1" />
+      <edge id="66" source="www.thestreet.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="67" source="www.thestreet.com" target="www.fool.com" weight="1" />
+      <edge id="68" source="www.thestreet.com" target="www.desmoinesregister.com" weight="1" />
+      <edge id="69" source="www.thestreet.com" target="townhall.com" weight="1" />
+      <edge id="70" source="www.thestreet.com" target="thinkprogress.org" weight="1" />
+      <edge id="71" source="www.thestreet.com" target="www.theblaze.com" weight="1" />
+      <edge id="72" source="www.bloomberg.com" target="www.afr.com" weight="1" />
+      <edge id="73" source="www.bloomberg.com" target="www.wsj.com" weight="1" />
+      <edge id="74" source="www.bloomberg.com" target="www.barrons.com" weight="1" />
+      <edge id="75" source="www.bloomberg.com" target="www.usatoday.com" weight="1" />
+      <edge id="76" source="www.bloomberg.com" target="www.cnbc.com" weight="1" />
+      <edge id="77" source="www.bloomberg.com" target="www.marketwatch.com" weight="1" />
+      <edge id="78" source="www.bloomberg.com" target="www.newyorker.com" weight="1" />
+      <edge id="79" source="www.bloomberg.com" target="allafrica.com" weight="1" />
+      <edge id="80" source="www.barrons.com" target="www.afr.com" weight="1" />
+      <edge id="81" source="www.barrons.com" target="www.wsj.com" weight="1" />
+      <edge id="82" source="www.barrons.com" target="www.cnbc.com" weight="1" />
+      <edge id="83" source="www.barrons.com" target="www.usatoday.com" weight="1" />
+      <edge id="84" source="www.barrons.com" target="www.marketwatch.com" weight="1" />
+      <edge id="85" source="www.barrons.com" target="www.newyorker.com" weight="1" />
+      <edge id="86" source="www.barrons.com" target="allafrica.com" weight="1" />
+      <edge id="87" source="www.thestar.com" target="www.businessinsider.com" weight="1" />
+      <edge id="88" source="www.thestar.com" target="www.startupsmart.com.au" weight="1" />
+      <edge id="89" source="www.thestar.com" target="www.timesargus.com" weight="1" />
+      <edge id="90" source="www.thestar.com" target="www.govconwire.com" weight="1" />
+      <edge id="91" source="www.thestar.com" target="thehill.com" weight="1" />
+      <edge id="92" source="www.thestar.com" target="www.pcr-online.biz" weight="1" />
+      <edge id="93" source="www.thestar.com" target="www.theverge.com" weight="1" />
+      <edge id="94" source="www.thestar.com" target="www.popsci.com" weight="1" />
+      <edge id="95" source="www.thestar.com" target="wiat.com" weight="1" />
+      <edge id="96" source="www.pbs.org" target="www.bankrate.com" weight="1" />
+      <edge id="97" source="www.pbs.org" target="www.huffingtonpost.com" weight="1" />
+      <edge id="98" source="www.pbs.org" target="www.usnews.com" weight="1" />
+      <edge id="99" source="www.pbs.org" target="www.altfi.com" weight="1" />
+      <edge id="100" source="www.pbs.org" target="www.prnewswire.com" weight="1" />
+      <edge id="101" source="www.pbs.org" target="wjon.com" weight="1" />
+      <edge id="102" source="www.pbs.org" target="www.citizen-times.com" weight="1" />
+      <edge id="103" source="www.pbs.org" target="www.crowdfundinsider.com" weight="1" />
+      <edge id="104" source="www.thedailybeast.com" target="www.latimes.com" weight="1" />
+      <edge id="105" source="www.thedailybeast.com" target="www.wsj.com" weight="1" />
+      <edge id="106" source="www.thedailybeast.com" target="www.foxnews.com" weight="1" />
+      <edge id="107" source="www.thedailybeast.com" target="www.businessinsider.com" weight="1" />
+      <edge id="108" source="www.thedailybeast.com" target="www.indystar.com" weight="1" />
+      <edge id="109" source="www.thedailybeast.com" target="www.nytimes.com" weight="2" />
+      <edge id="110" source="www.thedailybeast.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="111" source="www.thedailybeast.com" target="www.cnbc.com" weight="1" />
+      <edge id="112" source="www.thedailybeast.com" target="nypost.com" weight="1" />
+      <edge id="113" source="www.thedailybeast.com" target="www.salon.com" weight="1" />
+      <edge id="114" source="www.thedailybeast.com" target="www.theguardian.com" weight="1" />
+      <edge id="115" source="www.thedailybeast.com" target="time.com" weight="1" />
+      <edge id="116" source="www.thedailybeast.com" target="abcnews.go.com" weight="1" />
+      <edge id="117" source="www.thedailybeast.com" target="www.cnn.com" weight="1" />
+      <edge id="118" source="elitedaily.com" target="www.popularmechanics.com" weight="1" />
+      <edge id="119" source="elitedaily.com" target="dailycaller.com" weight="1" />
+      <edge id="120" source="elitedaily.com" target="www.rt.com" weight="1" />
+      <edge id="121" source="elitedaily.com" target="reason.com" weight="1" />
+      <edge id="122" source="elitedaily.com" target="theferret.scot" weight="1" />
+      <edge id="123" source="elitedaily.com" target="www.forbes.com" weight="1" />
+      <edge id="124" source="elitedaily.com" target="money.cnn.com" weight="1" />
+      <edge id="125" source="elitedaily.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="126" source="thinkprogress.org" target="thefederalist.com" weight="1" />
+      <edge id="127" source="thinkprogress.org" target="healthcare.utah.edu" weight="1" />
+      <edge id="128" source="thinkprogress.org" target="dunyanews.tv" weight="1" />
+      <edge id="129" source="thinkprogress.org" target="www.cincinnati.com" weight="1" />
+      <edge id="130" source="thinkprogress.org" target="www.nbcnews.com" weight="1" />
+      <edge id="131" source="thinkprogress.org" target="gawker.com" weight="1" />
+      <edge id="132" source="thinkprogress.org" target="www.cnn.com" weight="1" />
+      <edge id="133" source="thinkprogress.org" target="www.cnbc.com" weight="1" />
+      <edge id="134" source="thinkprogress.org" target="townhall.com" weight="1" />
+      <edge id="135" source="thinkprogress.org" target="www.theblaze.com" weight="1" />
+      <edge id="136" source="thinkprogress.org" target="www.fool.com" weight="1" />
+      <edge id="137" source="thinkprogress.org" target="abcnews.go.com" weight="1" />
+      <edge id="138" source="thinkprogress.org" target="billmoyers.com" weight="1" />
+      <edge id="139" source="thinkprogress.org" target="www.latimes.com" weight="1" />
+      <edge id="140" source="thinkprogress.org" target="www.fredericksburg.com" weight="1" />
+      <edge id="141" source="thinkprogress.org" target="www.huffingtonpost.com" weight="3" />
+      <edge id="142" source="thinkprogress.org" target="www.usatoday.com" weight="1" />
+      <edge id="143" source="thinkprogress.org" target="www.dw.com" weight="1" />
+      <edge id="144" source="thinkprogress.org" target="www.npr.org" weight="1" />
+      <edge id="145" source="thinkprogress.org" target="www.attn.com" weight="1" />
+      <edge id="146" source="thinkprogress.org" target="www.nytimes.com" weight="2" />
+      <edge id="147" source="thinkprogress.org" target="www.ksdk.com" weight="1" />
+      <edge id="148" source="thinkprogress.org" target="www.washingtonpost.com" weight="1" />
+      <edge id="149" source="thinkprogress.org" target="www.breitbart.com" weight="1" />
+      <edge id="150" source="thinkprogress.org" target="www.desmoinesregister.com" weight="1" />
+      <edge id="151" source="thinkprogress.org" target="www.hastingstribune.com" weight="1" />
+      <edge id="152" source="thinkprogress.org" target="www.salon.com" weight="1" />
+      <edge id="153" source="thinkprogress.org" target="www.digitaltrends.com" weight="1" />
+      <edge id="154" source="thinkprogress.org" target="www.kmbc.com" weight="1" />
+      <edge id="155" source="www.transylvaniatimes.com" target="www.latimes.com" weight="1" />
+      <edge id="156" source="www.transylvaniatimes.com" target="thecreatorsproject.vice.com" weight="1" />
+      <edge id="157" source="www.transylvaniatimes.com" target="www.mmtimes.com" weight="1" />
+      <edge id="158" source="www.transylvaniatimes.com" target="blogs.mprnews.org" weight="1" />
+      <edge id="159" source="www.transylvaniatimes.com" target="www.wmur.com" weight="1" />
+      <edge id="160" source="www.transylvaniatimes.com" target="www.newsday.com" weight="1" />
+      <edge id="161" source="www.transylvaniatimes.com" target="www.nytimes.com" weight="1" />
+      <edge id="162" source="www.transylvaniatimes.com" target="chicago.suntimes.com" weight="1" />
+      <edge id="163" source="www.crowdfundinsider.com" target="www.bankrate.com" weight="1" />
+      <edge id="164" source="www.crowdfundinsider.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="165" source="www.crowdfundinsider.com" target="www.usnews.com" weight="1" />
+      <edge id="166" source="www.crowdfundinsider.com" target="www.prnewswire.com" weight="1" />
+      <edge id="167" source="www.crowdfundinsider.com" target="wjon.com" weight="1" />
+      <edge id="168" source="www.crowdfundinsider.com" target="www.citizen-times.com" weight="1" />
+      <edge id="169" source="www.crowdfundinsider.com" target="www.altfi.com" weight="1" />
+      <edge id="170" source="www.ksdk.com" target="healthcare.utah.edu" weight="1" />
+      <edge id="171" source="www.ksdk.com" target="www.fredericksburg.com" weight="1" />
+      <edge id="172" source="www.ksdk.com" target="dunyanews.tv" weight="1" />
+      <edge id="173" source="www.ksdk.com" target="www.hastingstribune.com" weight="1" />
+      <edge id="174" source="www.ksdk.com" target="www.attn.com" weight="1" />
+      <edge id="175" source="www.ksdk.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="176" source="www.ksdk.com" target="www.kmbc.com" weight="1" />
+      <edge id="177" source="chicago.suntimes.com" target="www.latimes.com" weight="1" />
+      <edge id="178" source="chicago.suntimes.com" target="thecreatorsproject.vice.com" weight="1" />
+      <edge id="179" source="chicago.suntimes.com" target="www.mmtimes.com" weight="1" />
+      <edge id="180" source="chicago.suntimes.com" target="blogs.mprnews.org" weight="1" />
+      <edge id="181" source="chicago.suntimes.com" target="www.wmur.com" weight="1" />
+      <edge id="182" source="chicago.suntimes.com" target="www.newsday.com" weight="1" />
+      <edge id="183" source="chicago.suntimes.com" target="www.nytimes.com" weight="1" />
+      <edge id="184" source="www.aol.com" target="dailycaller.com" weight="1" />
+      <edge id="185" source="www.aol.com" target="www.businessinsider.com" weight="1" />
+      <edge id="186" source="www.aol.com" target="thehill.com" weight="1" />
+      <edge id="187" source="www.aol.com" target="www.jpost.com" weight="1" />
+      <edge id="188" source="www.aol.com" target="www.cnn.com" weight="1" />
+      <edge id="189" source="www.aol.com" target="www.nytimes.com" weight="1" />
+      <edge id="190" source="www.hastingstribune.com" target="healthcare.utah.edu" weight="1" />
+      <edge id="191" source="www.hastingstribune.com" target="www.fredericksburg.com" weight="1" />
+      <edge id="192" source="www.hastingstribune.com" target="dunyanews.tv" weight="1" />
+      <edge id="193" source="www.hastingstribune.com" target="www.attn.com" weight="1" />
+      <edge id="194" source="www.hastingstribune.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="195" source="www.hastingstribune.com" target="www.kmbc.com" weight="1" />
+      <edge id="196" source="www.salon.com" target="www.wsj.com" weight="1" />
+      <edge id="197" source="www.salon.com" target="www.foxnews.com" weight="1" />
+      <edge id="198" source="www.salon.com" target="www.cincinnati.com" weight="2" />
+      <edge id="199" source="www.salon.com" target="redalertpolitics.com" weight="1" />
+      <edge id="200" source="www.salon.com" target="www.nbcnews.com" weight="1" />
+      <edge id="201" source="www.salon.com" target="www.news4jax.com" weight="1" />
+      <edge id="202" source="www.salon.com" target="www.cnn.com" weight="1" />
+      <edge id="203" source="www.salon.com" target="www.cleveland.com" weight="1" />
+      <edge id="204" source="www.salon.com" target="www.cnbc.com" weight="2" />
+      <edge id="205" source="www.salon.com" target="portlandtribune.com" weight="1" />
+      <edge id="206" source="www.salon.com" target="www.latimes.com" weight="1" />
+      <edge id="207" source="www.salon.com" target="www.scpr.org" weight="1" />
+      <edge id="208" source="www.salon.com" target="www.usatoday.com" weight="1" />
+      <edge id="209" source="www.salon.com" target="www.indystar.com" weight="1" />
+      <edge id="210" source="www.salon.com" target="www.nytimes.com" weight="2" />
+      <edge id="211" source="www.salon.com" target="www.newsmax.com" weight="1" />
+      <edge id="212" source="www.salon.com" target="www.washingtonpost.com" weight="2" />
+      <edge id="213" source="www.salon.com" target="gawker.com" weight="1" />
+      <edge id="214" source="www.salon.com" target="www.theguardian.com" weight="1" />
+      <edge id="215" source="www.salon.com" target="www.forbes.com" weight="1" />
+      <edge id="216" source="wdtn.com" target="www.nbcnews.com" weight="1" />
+      <edge id="217" source="wdtn.com" target="nypost.com" weight="1" />
+      <edge id="218" source="wdtn.com" target="www.lifenews.com" weight="1" />
+      <edge id="219" source="wdtn.com" target="thehill.com" weight="1" />
+      <edge id="220" source="wdtn.com" target="www.motherjones.com" weight="1" />
+      <edge id="221" source="wdtn.com" target="abcnews.go.com" weight="1" />
+      <edge id="222" source="wdtn.com" target="www.nytimes.com" weight="1" />
+      <edge id="223" source="prospect.org" target="dailycaller.com" weight="1" />
+      <edge id="224" source="prospect.org" target="money.cnn.com" weight="1" />
+      <edge id="225" source="prospect.org" target="www.houmatoday.com" weight="1" />
+      <edge id="226" source="prospect.org" target="www.themaneater.com" weight="1" />
+      <edge id="227" source="prospect.org" target="www.marinij.com" weight="1" />
+      <edge id="228" source="prospect.org" target="thehill.com" weight="1" />
+      <edge id="229" source="prospect.org" target="time.com" weight="1" />
+      <edge id="230" source="prospect.org" target="www.washingtonpost.com" weight="1" />
+      <edge id="231" source="prospect.org" target="www.ktvu.com" weight="1" />
+      <edge id="232" source="flathatnews.com" target="miamistudent.net" weight="1" />
+      <edge id="233" source="flathatnews.com" target="www.sj-r.com" weight="1" />
+      <edge id="234" source="flathatnews.com" target="www.csmonitor.com" weight="1" />
+      <edge id="235" source="flathatnews.com" target="www.natlawreview.com" weight="1" />
+      <edge id="236" source="flathatnews.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="237" source="flathatnews.com" target="www.kykernel.com" weight="1" />
+      <edge id="238" source="flathatnews.com" target="nymag.com" weight="1" />
+      <edge id="239" source="flathatnews.com" target="www.moneytalksnews.com" weight="1" />
+      <edge id="240" source="flathatnews.com" target="registerguard.com" weight="1" />
+      <edge id="241" source="www.charlotteobserver.com" target="www.wapt.com" weight="1" />
+      <edge id="242" source="www.charlotteobserver.com" target="cnsnews.com" weight="1" />
+      <edge id="243" source="www.charlotteobserver.com" target="www.cbsnews.com" weight="1" />
+      <edge id="244" source="www.charlotteobserver.com" target="www.belfasttelegraph.co.uk" weight="1" />
+      <edge id="245" source="www.charlotteobserver.com" target="www.christiandaily.com" weight="1" />
+      <edge id="246" source="www.charlotteobserver.com" target="www.pinknews.co.uk" weight="1" />
+      <edge id="247" source="www.charlotteobserver.com" target="www.gopusa.com" weight="1" />
+      <edge id="248" source="www.charlotteobserver.com" target="www.stltoday.com" weight="1" />
+      <edge id="249" source="www.usnews.com" target="www.bankrate.com" weight="1" />
+      <edge id="250" source="www.usnews.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="251" source="www.usnews.com" target="www.prnewswire.com" weight="1" />
+      <edge id="252" source="www.usnews.com" target="wjon.com" weight="1" />
+      <edge id="253" source="www.usnews.com" target="www.citizen-times.com" weight="1" />
+      <edge id="254" source="www.usnews.com" target="www.altfi.com" weight="1" />
+      <edge id="255" source="www.wapt.com" target="cnsnews.com" weight="1" />
+      <edge id="256" source="www.wapt.com" target="www.cbsnews.com" weight="1" />
+      <edge id="257" source="www.wapt.com" target="www.belfasttelegraph.co.uk" weight="1" />
+      <edge id="258" source="www.wapt.com" target="www.christiandaily.com" weight="1" />
+      <edge id="259" source="www.wapt.com" target="www.pinknews.co.uk" weight="1" />
+      <edge id="260" source="www.wapt.com" target="www.gopusa.com" weight="1" />
+      <edge id="261" source="www.wapt.com" target="www.stltoday.com" weight="1" />
+      <edge id="262" source="blogs.mprnews.org" target="thecreatorsproject.vice.com" weight="1" />
+      <edge id="263" source="blogs.mprnews.org" target="www.wmur.com" weight="1" />
+      <edge id="264" source="blogs.mprnews.org" target="www.mmtimes.com" weight="1" />
+      <edge id="265" source="blogs.mprnews.org" target="www.newsday.com" weight="1" />
+      <edge id="266" source="blogs.mprnews.org" target="www.latimes.com" weight="1" />
+      <edge id="267" source="blogs.mprnews.org" target="www.nytimes.com" weight="1" />
+      <edge id="268" source="miamistudent.net" target="registerguard.com" weight="1" />
+      <edge id="269" source="miamistudent.net" target="www.natlawreview.com" weight="1" />
+      <edge id="270" source="miamistudent.net" target="www.csmonitor.com" weight="1" />
+      <edge id="271" source="miamistudent.net" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="272" source="miamistudent.net" target="www.kykernel.com" weight="1" />
+      <edge id="273" source="miamistudent.net" target="nymag.com" weight="1" />
+      <edge id="274" source="miamistudent.net" target="www.moneytalksnews.com" weight="1" />
+      <edge id="275" source="miamistudent.net" target="www.sj-r.com" weight="1" />
+      <edge id="276" source="www.belfasttelegraph.co.uk" target="cnsnews.com" weight="1" />
+      <edge id="277" source="www.belfasttelegraph.co.uk" target="www.cbsnews.com" weight="1" />
+      <edge id="278" source="www.belfasttelegraph.co.uk" target="www.christiandaily.com" weight="1" />
+      <edge id="279" source="www.belfasttelegraph.co.uk" target="www.pinknews.co.uk" weight="1" />
+      <edge id="280" source="www.belfasttelegraph.co.uk" target="www.gopusa.com" weight="1" />
+      <edge id="281" source="www.belfasttelegraph.co.uk" target="www.stltoday.com" weight="1" />
+      <edge id="282" source="www.pinknews.co.uk" target="cnsnews.com" weight="1" />
+      <edge id="283" source="www.pinknews.co.uk" target="www.cbsnews.com" weight="1" />
+      <edge id="284" source="www.pinknews.co.uk" target="www.christiandaily.com" weight="1" />
+      <edge id="285" source="www.pinknews.co.uk" target="www.gopusa.com" weight="1" />
+      <edge id="286" source="www.pinknews.co.uk" target="www.stltoday.com" weight="1" />
+      <edge id="287" source="www.middleeasteye.net" target="floridapolitics.com" weight="1" />
+      <edge id="288" source="www.middleeasteye.net" target="skift.com" weight="1" />
+      <edge id="289" source="www.middleeasteye.net" target="www.crossmap.com" weight="1" />
+      <edge id="290" source="www.middleeasteye.net" target="www.scientificamerican.com" weight="1" />
+      <edge id="291" source="www.middleeasteye.net" target="www.hellenicshippingnews.com" weight="1" />
+      <edge id="292" source="www.middleeasteye.net" target="www.middleeastmonitor.com" weight="1" />
+      <edge id="293" source="www.middleeasteye.net" target="www.rigzone.com" weight="1" />
+      <edge id="294" source="www.usmagazine.com" target="www.breitbart.com" weight="1" />
+      <edge id="295" source="www.usmagazine.com" target="www.politico.com" weight="1" />
+      <edge id="296" source="www.usmagazine.com" target="www.businessinsider.com" weight="1" />
+      <edge id="297" source="www.usmagazine.com" target="www.cbsnews.com" weight="1" />
+      <edge id="298" source="www.usmagazine.com" target="www.slate.com" weight="1" />
+      <edge id="299" source="www.usmagazine.com" target="www.nytimes.com" weight="1" />
+      <edge id="300" source="www.usmagazine.com" target="www.ibtimes.com" weight="1" />
+      <edge id="301" source="www.usmagazine.com" target="abcnews.go.com" weight="1" />
+      <edge id="302" source="www.stltoday.com" target="cnsnews.com" weight="1" />
+      <edge id="303" source="www.stltoday.com" target="www.cbsnews.com" weight="1" />
+      <edge id="304" source="www.stltoday.com" target="www.christiandaily.com" weight="1" />
+      <edge id="305" source="www.stltoday.com" target="www.gopusa.com" weight="1" />
+      <edge id="306" source="jalopnik.com" target="www.npr.org" weight="1" />
+      <edge id="307" source="jalopnik.com" target="www.businessinsider.com" weight="1" />
+      <edge id="308" source="jalopnik.com" target="nymag.com" weight="1" />
+      <edge id="309" source="jalopnik.com" target="www.cnn.com" weight="1" />
+      <edge id="310" source="jalopnik.com" target="time.com" weight="1" />
+      <edge id="311" source="jalopnik.com" target="abcnews.go.com" weight="1" />
+      <edge id="312" source="jalopnik.com" target="www.nytimes.com" weight="1" />
+      <edge id="313" source="www.nydailynews.com" target="dailycaller.com" weight="1" />
+      <edge id="314" source="www.nydailynews.com" target="www.scpr.org" weight="1" />
+      <edge id="315" source="www.nydailynews.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="316" source="www.nydailynews.com" target="www.genomeweb.com" weight="1" />
+      <edge id="317" source="www.nydailynews.com" target="www.nbcnews.com" weight="1" />
+      <edge id="318" source="www.nydailynews.com" target="www.reuters.com" weight="1" />
+      <edge id="319" source="www.nydailynews.com" target="thehill.com" weight="1" />
+      <edge id="320" source="www.nydailynews.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="321" source="www.nydailynews.com" target="www.breitbart.com" weight="1" />
+      <edge id="322" source="www.nydailynews.com" target="www.cnbc.com" weight="1" />
+      <edge id="323" source="www.nydailynews.com" target="espn.go.com" weight="1" />
+      <edge id="324" source="www.nydailynews.com" target="www.sacbee.com" weight="1" />
+      <edge id="325" source="www.nydailynews.com" target="www.latimes.com" weight="1" />
+      <edge id="326" source="www.nydailynews.com" target="frontrow.dmagazine.com" weight="1" />
+      <edge id="327" source="www.nydailynews.com" target="abcnews.go.com" weight="1" />
+      <edge id="328" source="www.nydailynews.com" target="www.freep.com" weight="1" />
+      <edge id="329" source="www.nydailynews.com" target="www.seattletimes.com" weight="1" />
+      <edge id="330" source="www.register-herald.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="331" source="www.register-herald.com" target="www.philly.com" weight="1" />
+      <edge id="332" source="www.register-herald.com" target="www.wfaa.com" weight="1" />
+      <edge id="333" source="www.register-herald.com" target="www.npr.org" weight="1" />
+      <edge id="334" source="www.register-herald.com" target="www.yahoo.com" weight="1" />
+      <edge id="335" source="www.register-herald.com" target="www.berkshireeagle.com" weight="1" />
+      <edge id="336" source="www.register-herald.com" target="www.businessinsurance.com" weight="1" />
+      <edge id="337" source="www.register-herald.com" target="trailblazersblog.dallasnews.com" weight="1" />
+      <edge id="338" source="www.register-herald.com" target="wealthmanagement.com" weight="1" />
+      <edge id="339" source="thecreatorsproject.vice.com" target="www.latimes.com" weight="1" />
+      <edge id="340" source="thecreatorsproject.vice.com" target="www.wmur.com" weight="1" />
+      <edge id="341" source="thecreatorsproject.vice.com" target="www.mmtimes.com" weight="1" />
+      <edge id="342" source="thecreatorsproject.vice.com" target="www.newsday.com" weight="1" />
+      <edge id="343" source="thecreatorsproject.vice.com" target="www.nytimes.com" weight="1" />
+      <edge id="344" source="www.businessinsider.com" target="dailycaller.com" weight="1" />
+      <edge id="345" source="www.businessinsider.com" target="www.cbsnews.com" weight="1" />
+      <edge id="346" source="www.businessinsider.com" target="www.cnn.com" weight="3" />
+      <edge id="347" source="www.businessinsider.com" target="www.slate.com" weight="1" />
+      <edge id="348" source="www.businessinsider.com" target="nypost.com" weight="1" />
+      <edge id="349" source="www.businessinsider.com" target="nymag.com" weight="1" />
+      <edge id="350" source="www.businessinsider.com" target="abcnews.go.com" weight="3" />
+      <edge id="351" source="www.businessinsider.com" target="wiat.com" weight="1" />
+      <edge id="352" source="www.businessinsider.com" target="www.latimes.com" weight="1" />
+      <edge id="353" source="www.businessinsider.com" target="www.ibtimes.com" weight="1" />
+      <edge id="354" source="www.businessinsider.com" target="www.politico.com" weight="1" />
+      <edge id="355" source="www.businessinsider.com" target="www.npr.org" weight="1" />
+      <edge id="356" source="www.businessinsider.com" target="www.startupsmart.com.au" weight="1" />
+      <edge id="357" source="www.businessinsider.com" target="thehill.com" weight="2" />
+      <edge id="358" source="www.businessinsider.com" target="www.pcr-online.biz" weight="1" />
+      <edge id="359" source="www.businessinsider.com" target="www.jpost.com" weight="1" />
+      <edge id="360" source="www.businessinsider.com" target="www.breitbart.com" weight="1" />
+      <edge id="361" source="www.businessinsider.com" target="time.com" weight="2" />
+      <edge id="362" source="www.businessinsider.com" target="www.timesargus.com" weight="1" />
+      <edge id="363" source="www.businessinsider.com" target="www.govconwire.com" weight="1" />
+      <edge id="364" source="www.businessinsider.com" target="www.popsci.com" weight="1" />
+      <edge id="365" source="www.businessinsider.com" target="www.theverge.com" weight="1" />
+      <edge id="366" source="www.businessinsider.com" target="www.nytimes.com" weight="4" />
+      <edge id="367" source="www.themaneater.com" target="dailycaller.com" weight="1" />
+      <edge id="368" source="www.themaneater.com" target="money.cnn.com" weight="1" />
+      <edge id="369" source="www.themaneater.com" target="www.houmatoday.com" weight="1" />
+      <edge id="370" source="www.themaneater.com" target="www.marinij.com" weight="1" />
+      <edge id="371" source="www.themaneater.com" target="thehill.com" weight="1" />
+      <edge id="372" source="www.themaneater.com" target="time.com" weight="1" />
+      <edge id="373" source="www.themaneater.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="374" source="www.themaneater.com" target="www.ktvu.com" weight="1" />
+      <edge id="375" source="phys.org" target="blogs.wsj.com" weight="1" />
+      <edge id="376" source="phys.org" target="www.newshub.co.nz" weight="1" />
+      <edge id="377" source="phys.org" target="www.cbc.ca" weight="1" />
+      <edge id="378" source="phys.org" target="www.greenbiz.com" weight="1" />
+      <edge id="379" source="phys.org" target="blog.ucsusa.org" weight="1" />
+      <edge id="380" source="phys.org" target="www.forbes.com" weight="1" />
+      <edge id="381" source="phys.org" target="news.stanford.edu" weight="1" />
+      <edge id="382" source="phys.org" target="theweek.com" weight="1" />
+      <edge id="383" source="www.nytimes.com" target="www.wsj.com" weight="1" />
+      <edge id="384" source="www.nytimes.com" target="www.cnn.com" weight="4" />
+      <edge id="385" source="www.nytimes.com" target="nymag.com" weight="1" />
+      <edge id="386" source="www.nytimes.com" target="www.lifenews.com" weight="1" />
+      <edge id="387" source="www.nytimes.com" target="www.newsday.com" weight="1" />
+      <edge id="388" source="www.nytimes.com" target="billmoyers.com" weight="1" />
+      <edge id="389" source="www.nytimes.com" target="www.dw.com" weight="1" />
+      <edge id="390" source="www.nytimes.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="391" source="www.nytimes.com" target="www.usatoday.com" weight="1" />
+      <edge id="392" source="www.nytimes.com" target="www.washingtonpost.com" weight="2" />
+      <edge id="393" source="www.nytimes.com" target="www.wmur.com" weight="1" />
+      <edge id="394" source="www.nytimes.com" target="www.motherjones.com" weight="1" />
+      <edge id="395" source="www.nytimes.com" target="time.com" weight="2" />
+      <edge id="396" source="www.nytimes.com" target="www.digitaltrends.com" weight="1" />
+      <edge id="397" source="www.nytimes.com" target="dailycaller.com" weight="1" />
+      <edge id="398" source="www.nytimes.com" target="www.foxnews.com" weight="1" />
+      <edge id="399" source="www.nytimes.com" target="www.cincinnati.com" weight="1" />
+      <edge id="400" source="www.nytimes.com" target="www.mmtimes.com" weight="1" />
+      <edge id="401" source="www.nytimes.com" target="www.cbsnews.com" weight="1" />
+      <edge id="402" source="www.nytimes.com" target="www.nbcnews.com" weight="2" />
+      <edge id="403" source="www.nytimes.com" target="gawker.com" weight="1" />
+      <edge id="404" source="www.nytimes.com" target="www.slate.com" weight="1" />
+      <edge id="405" source="www.nytimes.com" target="www.cnbc.com" weight="2" />
+      <edge id="406" source="www.nytimes.com" target="nypost.com" weight="2" />
+      <edge id="407" source="www.nytimes.com" target="abcnews.go.com" weight="5" />
+      <edge id="408" source="www.nytimes.com" target="www.latimes.com" weight="3" />
+      <edge id="409" source="www.nytimes.com" target="www.ibtimes.com" weight="1" />
+      <edge id="410" source="www.nytimes.com" target="www.indystar.com" weight="1" />
+      <edge id="411" source="www.nytimes.com" target="thehill.com" weight="2" />
+      <edge id="412" source="www.nytimes.com" target="www.politico.com" weight="1" />
+      <edge id="413" source="www.nytimes.com" target="www.jpost.com" weight="1" />
+      <edge id="414" source="www.nytimes.com" target="www.breitbart.com" weight="1" />
+      <edge id="415" source="www.nytimes.com" target="www.npr.org" weight="2" />
+      <edge id="416" source="www.nytimes.com" target="www.theguardian.com" weight="1" />
+      <edge id="417" source="www.pcr-online.biz" target="www.startupsmart.com.au" weight="1" />
+      <edge id="418" source="www.pcr-online.biz" target="www.timesargus.com" weight="1" />
+      <edge id="419" source="www.pcr-online.biz" target="www.govconwire.com" weight="1" />
+      <edge id="420" source="www.pcr-online.biz" target="thehill.com" weight="1" />
+      <edge id="421" source="www.pcr-online.biz" target="www.popsci.com" weight="1" />
+      <edge id="422" source="www.pcr-online.biz" target="www.theverge.com" weight="1" />
+      <edge id="423" source="www.pcr-online.biz" target="wiat.com" weight="1" />
+      <edge id="424" source="money.cnn.com" target="www.popularmechanics.com" weight="1" />
+      <edge id="425" source="money.cnn.com" target="www.rt.com" weight="1" />
+      <edge id="426" source="money.cnn.com" target="thehill.com" weight="1" />
+      <edge id="427" source="money.cnn.com" target="www.marinij.com" weight="1" />
+      <edge id="428" source="money.cnn.com" target="www.washingtonpost.com" weight="2" />
+      <edge id="429" source="money.cnn.com" target="www.houmatoday.com" weight="1" />
+      <edge id="430" source="money.cnn.com" target="dailycaller.com" weight="2" />
+      <edge id="431" source="money.cnn.com" target="reason.com" weight="1" />
+      <edge id="432" source="money.cnn.com" target="theferret.scot" weight="1" />
+      <edge id="433" source="money.cnn.com" target="time.com" weight="1" />
+      <edge id="434" source="money.cnn.com" target="www.forbes.com" weight="1" />
+      <edge id="435" source="money.cnn.com" target="www.ktvu.com" weight="1" />
+      <edge id="436" source="www.desmoinesregister.com" target="thefederalist.com" weight="1" />
+      <edge id="437" source="www.desmoinesregister.com" target="www.breitbart.com" weight="1" />
+      <edge id="438" source="www.desmoinesregister.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="439" source="www.desmoinesregister.com" target="www.fool.com" weight="1" />
+      <edge id="440" source="www.desmoinesregister.com" target="www.theblaze.com" weight="1" />
+      <edge id="441" source="www.desmoinesregister.com" target="townhall.com" weight="1" />
+      <edge id="442" source="www.crossmap.com" target="floridapolitics.com" weight="1" />
+      <edge id="443" source="www.crossmap.com" target="skift.com" weight="1" />
+      <edge id="444" source="www.crossmap.com" target="www.scientificamerican.com" weight="1" />
+      <edge id="445" source="www.crossmap.com" target="www.hellenicshippingnews.com" weight="1" />
+      <edge id="446" source="www.crossmap.com" target="www.middleeastmonitor.com" weight="1" />
+      <edge id="447" source="www.crossmap.com" target="www.rigzone.com" weight="1" />
+      <edge id="448" source="www.natlawreview.com" target="www.sj-r.com" weight="1" />
+      <edge id="449" source="www.natlawreview.com" target="www.csmonitor.com" weight="1" />
+      <edge id="450" source="www.natlawreview.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="451" source="www.natlawreview.com" target="www.kykernel.com" weight="1" />
+      <edge id="452" source="www.natlawreview.com" target="nymag.com" weight="1" />
+      <edge id="453" source="www.natlawreview.com" target="www.moneytalksnews.com" weight="1" />
+      <edge id="454" source="www.natlawreview.com" target="registerguard.com" weight="1" />
+      <edge id="455" source="redalertpolitics.com" target="www.latimes.com" weight="1" />
+      <edge id="456" source="redalertpolitics.com" target="www.scpr.org" weight="1" />
+      <edge id="457" source="redalertpolitics.com" target="portlandtribune.com" weight="1" />
+      <edge id="458" source="redalertpolitics.com" target="www.cincinnati.com" weight="1" />
+      <edge id="459" source="redalertpolitics.com" target="www.news4jax.com" weight="1" />
+      <edge id="460" source="redalertpolitics.com" target="www.forbes.com" weight="1" />
+      <edge id="461" source="redalertpolitics.com" target="www.newsmax.com" weight="1" />
+      <edge id="462" source="redalertpolitics.com" target="www.cleveland.com" weight="1" />
+      <edge id="463" source="news.stanford.edu" target="blogs.wsj.com" weight="1" />
+      <edge id="464" source="news.stanford.edu" target="www.newshub.co.nz" weight="1" />
+      <edge id="465" source="news.stanford.edu" target="www.cbc.ca" weight="1" />
+      <edge id="466" source="news.stanford.edu" target="blog.ucsusa.org" weight="1" />
+      <edge id="467" source="news.stanford.edu" target="www.forbes.com" weight="1" />
+      <edge id="468" source="news.stanford.edu" target="www.greenbiz.com" weight="1" />
+      <edge id="469" source="news.stanford.edu" target="theweek.com" weight="1" />
+      <edge id="470" source="www.news4jax.com" target="www.latimes.com" weight="1" />
+      <edge id="471" source="www.news4jax.com" target="www.scpr.org" weight="1" />
+      <edge id="472" source="www.news4jax.com" target="portlandtribune.com" weight="1" />
+      <edge id="473" source="www.news4jax.com" target="www.cincinnati.com" weight="1" />
+      <edge id="474" source="www.news4jax.com" target="www.forbes.com" weight="1" />
+      <edge id="475" source="www.news4jax.com" target="www.newsmax.com" weight="1" />
+      <edge id="476" source="www.news4jax.com" target="www.cleveland.com" weight="1" />
+      <edge id="477" source="www.reuters.com" target="dailycaller.com" weight="1" />
+      <edge id="478" source="www.reuters.com" target="www.scpr.org" weight="1" />
+      <edge id="479" source="www.reuters.com" target="www.dw.com" weight="1" />
+      <edge id="480" source="www.reuters.com" target="reason.com" weight="1" />
+      <edge id="481" source="www.reuters.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="482" source="www.reuters.com" target="www.ibtimes.com" weight="1" />
+      <edge id="483" source="www.reuters.com" target="blogs.wsj.com" weight="1" />
+      <edge id="484" source="www.reuters.com" target="www.cnbc.com" weight="1" />
+      <edge id="485" source="www.reuters.com" target="www.essence.com" weight="1" />
+      <edge id="486" source="www.reuters.com" target="www.sacbee.com" weight="1" />
+      <edge id="487" source="www.reuters.com" target="screencrush.com" weight="1" />
+      <edge id="488" source="www.reuters.com" target="frontrow.dmagazine.com" weight="1" />
+      <edge id="489" source="www.reuters.com" target="www.seattletimes.com" weight="1" />
+      <edge id="490" source="www.reuters.com" target="www.breitbart.com" weight="2" />
+      <edge id="491" source="philadelphia.cbslocal.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="492" source="philadelphia.cbslocal.com" target="www.essence.com" weight="1" />
+      <edge id="493" source="philadelphia.cbslocal.com" target="www.usatoday.com" weight="1" />
+      <edge id="494" source="philadelphia.cbslocal.com" target="www.cbsnews.com" weight="1" />
+      <edge id="495" source="philadelphia.cbslocal.com" target="news.xinhuanet.com" weight="1" />
+      <edge id="496" source="philadelphia.cbslocal.com" target="abc7ny.com" weight="1" />
+      <edge id="497" source="philadelphia.cbslocal.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="498" source="philadelphia.cbslocal.com" target="www.startribune.com" weight="1" />
+      <edge id="499" source="floridapolitics.com" target="skift.com" weight="1" />
+      <edge id="500" source="floridapolitics.com" target="www.scientificamerican.com" weight="1" />
+      <edge id="501" source="floridapolitics.com" target="www.hellenicshippingnews.com" weight="1" />
+      <edge id="502" source="floridapolitics.com" target="www.middleeastmonitor.com" weight="1" />
+      <edge id="503" source="floridapolitics.com" target="www.rigzone.com" weight="1" />
+      <edge id="504" source="nymag.com" target="www.kykernel.com" weight="1" />
+      <edge id="505" source="nymag.com" target="www.npr.org" weight="1" />
+      <edge id="506" source="nymag.com" target="www.sj-r.com" weight="1" />
+      <edge id="507" source="nymag.com" target="registerguard.com" weight="1" />
+      <edge id="508" source="nymag.com" target="www.csmonitor.com" weight="1" />
+      <edge id="509" source="nymag.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="510" source="nymag.com" target="www.cnn.com" weight="1" />
+      <edge id="511" source="nymag.com" target="time.com" weight="1" />
+      <edge id="512" source="nymag.com" target="abcnews.go.com" weight="1" />
+      <edge id="513" source="nymag.com" target="www.moneytalksnews.com" weight="1" />
+      <edge id="514" source="patriotpost.us" target="www.upi.com" weight="1" />
+      <edge id="515" source="patriotpost.us" target="ottawacitizen.com" weight="1" />
+      <edge id="516" source="patriotpost.us" target="www.theguardian.com" weight="1" />
+      <edge id="517" source="patriotpost.us" target="variety.com" weight="1" />
+      <edge id="518" source="patriotpost.us" target="www.azcentral.com" weight="1" />
+      <edge id="519" source="patriotpost.us" target="www.treehugger.com" weight="1" />
+      <edge id="520" source="www.newsday.com" target="www.latimes.com" weight="1" />
+      <edge id="521" source="www.newsday.com" target="www.mmtimes.com" weight="1" />
+      <edge id="522" source="www.newsday.com" target="www.wmur.com" weight="1" />
+      <edge id="523" source="www.ibtimes.com" target="www.breitbart.com" weight="2" />
+      <edge id="524" source="www.ibtimes.com" target="blogs.wsj.com" weight="1" />
+      <edge id="525" source="www.ibtimes.com" target="www.cbsnews.com" weight="1" />
+      <edge id="526" source="www.ibtimes.com" target="www.politico.com" weight="1" />
+      <edge id="527" source="www.ibtimes.com" target="www.slate.com" weight="1" />
+      <edge id="528" source="www.ibtimes.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="529" source="www.ibtimes.com" target="www.dw.com" weight="1" />
+      <edge id="530" source="www.ibtimes.com" target="www.essence.com" weight="1" />
+      <edge id="531" source="www.ibtimes.com" target="reason.com" weight="1" />
+      <edge id="532" source="www.ibtimes.com" target="screencrush.com" weight="1" />
+      <edge id="533" source="www.ibtimes.com" target="abcnews.go.com" weight="1" />
+      <edge id="534" source="www.businessinsurance.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="535" source="www.businessinsurance.com" target="www.philly.com" weight="1" />
+      <edge id="536" source="www.businessinsurance.com" target="www.wfaa.com" weight="1" />
+      <edge id="537" source="www.businessinsurance.com" target="www.npr.org" weight="1" />
+      <edge id="538" source="www.businessinsurance.com" target="www.berkshireeagle.com" weight="1" />
+      <edge id="539" source="www.businessinsurance.com" target="trailblazersblog.dallasnews.com" weight="1" />
+      <edge id="540" source="www.businessinsurance.com" target="www.yahoo.com" weight="1" />
+      <edge id="541" source="www.businessinsurance.com" target="wealthmanagement.com" weight="1" />
+      <edge id="542" source="www.wfaa.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="543" source="www.wfaa.com" target="www.philly.com" weight="1" />
+      <edge id="544" source="www.wfaa.com" target="trailblazersblog.dallasnews.com" weight="1" />
+      <edge id="545" source="www.wfaa.com" target="www.npr.org" weight="1" />
+      <edge id="546" source="www.wfaa.com" target="www.berkshireeagle.com" weight="1" />
+      <edge id="547" source="www.wfaa.com" target="www.yahoo.com" weight="1" />
+      <edge id="548" source="www.wfaa.com" target="wealthmanagement.com" weight="1" />
+      <edge id="549" source="news.xinhuanet.com" target="www.essence.com" weight="1" />
+      <edge id="550" source="news.xinhuanet.com" target="www.usatoday.com" weight="1" />
+      <edge id="551" source="news.xinhuanet.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="552" source="news.xinhuanet.com" target="www.cbsnews.com" weight="1" />
+      <edge id="553" source="news.xinhuanet.com" target="abc7ny.com" weight="1" />
+      <edge id="554" source="news.xinhuanet.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="555" source="news.xinhuanet.com" target="www.startribune.com" weight="1" />
+      <edge id="556" source="www.dw.com" target="www.latimes.com" weight="1" />
+      <edge id="557" source="www.dw.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="558" source="www.dw.com" target="screencrush.com" weight="1" />
+      <edge id="559" source="www.dw.com" target="www.npr.org" weight="1" />
+      <edge id="560" source="www.dw.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="561" source="www.dw.com" target="blogs.wsj.com" weight="1" />
+      <edge id="562" source="www.dw.com" target="www.essence.com" weight="1" />
+      <edge id="563" source="www.dw.com" target="billmoyers.com" weight="1" />
+      <edge id="564" source="www.dw.com" target="reason.com" weight="1" />
+      <edge id="565" source="www.dw.com" target="www.digitaltrends.com" weight="1" />
+      <edge id="566" source="www.dw.com" target="abcnews.go.com" weight="1" />
+      <edge id="567" source="www.dw.com" target="www.breitbart.com" weight="1" />
+      <edge id="568" source="www.nola.com" target="www.latimes.com" weight="1" />
+      <edge id="569" source="www.nola.com" target="dailycaller.com" weight="1" />
+      <edge id="570" source="www.nola.com" target="www.reviewjournal.com" weight="1" />
+      <edge id="571" source="www.nola.com" target="www.uppermichiganssource.com" weight="1" />
+      <edge id="572" source="www.nola.com" target="www.guns.com" weight="1" />
+      <edge id="573" source="www.nola.com" target="www.npr.org" weight="1" />
+      <edge id="574" source="www.nola.com" target="www.factcheck.org" weight="1" />
+      <edge id="575" source="www.nola.com" target="news.vice.com" weight="1" />
+      <edge id="576" source="www.nola.com" target="www.breitbart.com" weight="1" />
+      <edge id="577" source="www.middleeastmonitor.com" target="skift.com" weight="1" />
+      <edge id="578" source="www.middleeastmonitor.com" target="www.scientificamerican.com" weight="1" />
+      <edge id="579" source="www.middleeastmonitor.com" target="www.hellenicshippingnews.com" weight="1" />
+      <edge id="580" source="www.middleeastmonitor.com" target="www.rigzone.com" weight="1" />
+      <edge id="581" source="www.marketwatch.com" target="www.afr.com" weight="1" />
+      <edge id="582" source="www.marketwatch.com" target="www.wsj.com" weight="1" />
+      <edge id="583" source="www.marketwatch.com" target="www.usatoday.com" weight="1" />
+      <edge id="584" source="www.marketwatch.com" target="www.cnbc.com" weight="1" />
+      <edge id="585" source="www.marketwatch.com" target="www.newyorker.com" weight="1" />
+      <edge id="586" source="www.marketwatch.com" target="allafrica.com" weight="1" />
+      <edge id="587" source="www.wmur.com" target="www.latimes.com" weight="1" />
+      <edge id="588" source="www.wmur.com" target="www.mmtimes.com" weight="1" />
+      <edge id="589" source="registerguard.com" target="www.sj-r.com" weight="1" />
+      <edge id="590" source="registerguard.com" target="www.csmonitor.com" weight="1" />
+      <edge id="591" source="registerguard.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="592" source="registerguard.com" target="www.kykernel.com" weight="1" />
+      <edge id="593" source="registerguard.com" target="www.moneytalksnews.com" weight="1" />
+      <edge id="594" source="www.essence.com" target="www.breitbart.com" weight="1" />
+      <edge id="595" source="www.essence.com" target="www.usatoday.com" weight="1" />
+      <edge id="596" source="www.essence.com" target="www.cbsnews.com" weight="1" />
+      <edge id="597" source="www.essence.com" target="blogs.wsj.com" weight="1" />
+      <edge id="598" source="www.essence.com" target="www.washingtonpost.com" weight="2" />
+      <edge id="599" source="www.essence.com" target="abc7ny.com" weight="1" />
+      <edge id="600" source="www.essence.com" target="reason.com" weight="1" />
+      <edge id="601" source="www.essence.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="602" source="www.essence.com" target="screencrush.com" weight="1" />
+      <edge id="603" source="www.essence.com" target="www.startribune.com" weight="1" />
+      <edge id="604" source="www.motherjones.com" target="nypost.com" weight="1" />
+      <edge id="605" source="www.motherjones.com" target="www.lifenews.com" weight="1" />
+      <edge id="606" source="www.motherjones.com" target="thehill.com" weight="1" />
+      <edge id="607" source="www.motherjones.com" target="www.nbcnews.com" weight="1" />
+      <edge id="608" source="www.motherjones.com" target="abcnews.go.com" weight="1" />
+      <edge id="609" source="www.govconwire.com" target="www.timesargus.com" weight="1" />
+      <edge id="610" source="www.govconwire.com" target="www.startupsmart.com.au" weight="1" />
+      <edge id="611" source="www.govconwire.com" target="thehill.com" weight="1" />
+      <edge id="612" source="www.govconwire.com" target="www.theverge.com" weight="1" />
+      <edge id="613" source="www.govconwire.com" target="www.popsci.com" weight="1" />
+      <edge id="614" source="www.govconwire.com" target="wiat.com" weight="1" />
+      <edge id="615" source="www.digitaltrends.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="616" source="www.digitaltrends.com" target="www.npr.org" weight="1" />
+      <edge id="617" source="www.digitaltrends.com" target="www.latimes.com" weight="1" />
+      <edge id="618" source="www.digitaltrends.com" target="abcnews.go.com" weight="1" />
+      <edge id="619" source="www.digitaltrends.com" target="billmoyers.com" weight="1" />
+      <edge id="620" source="www.gopusa.com" target="cnsnews.com" weight="1" />
+      <edge id="621" source="www.gopusa.com" target="www.cbsnews.com" weight="1" />
+      <edge id="622" source="www.gopusa.com" target="www.christiandaily.com" weight="1" />
+      <edge id="623" source="www.guns.com" target="www.latimes.com" weight="1" />
+      <edge id="624" source="www.guns.com" target="dailycaller.com" weight="1" />
+      <edge id="625" source="www.guns.com" target="www.reviewjournal.com" weight="1" />
+      <edge id="626" source="www.guns.com" target="www.uppermichiganssource.com" weight="1" />
+      <edge id="627" source="www.guns.com" target="www.npr.org" weight="1" />
+      <edge id="628" source="www.guns.com" target="www.factcheck.org" weight="1" />
+      <edge id="629" source="www.guns.com" target="news.vice.com" weight="1" />
+      <edge id="630" source="www.guns.com" target="www.breitbart.com" weight="1" />
+      <edge id="631" source="skift.com" target="www.rigzone.com" weight="1" />
+      <edge id="632" source="skift.com" target="www.scientificamerican.com" weight="1" />
+      <edge id="633" source="skift.com" target="www.hellenicshippingnews.com" weight="1" />
+      <edge id="634" source="www.rt.com" target="www.popularmechanics.com" weight="1" />
+      <edge id="635" source="www.rt.com" target="dailycaller.com" weight="1" />
+      <edge id="636" source="www.rt.com" target="reason.com" weight="1" />
+      <edge id="637" source="www.rt.com" target="theferret.scot" weight="1" />
+      <edge id="638" source="www.rt.com" target="www.forbes.com" weight="1" />
+      <edge id="639" source="www.rt.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="640" source="wtop.com" target="newrepublic.com" weight="1" />
+      <edge id="641" source="wtop.com" target="live.baltimoresun.com" weight="1" />
+      <edge id="642" source="wtop.com" target="www.nbcnews.com" weight="1" />
+      <edge id="643" source="wtop.com" target="m.starrfmonline.com" weight="1" />
+      <edge id="644" source="wtop.com" target="www.cnn.com" weight="1" />
+      <edge id="645" source="wtop.com" target="abcnews.go.com" weight="1" />
+      <edge id="646" source="wtop.com" target="patch.com" weight="1" />
+      <edge id="647" source="www.cbsnews.com" target="www.slate.com" weight="1" />
+      <edge id="648" source="www.cbsnews.com" target="cnsnews.com" weight="1" />
+      <edge id="649" source="www.cbsnews.com" target="abc7ny.com" weight="1" />
+      <edge id="650" source="www.cbsnews.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="651" source="www.cbsnews.com" target="abcnews.go.com" weight="1" />
+      <edge id="652" source="www.cbsnews.com" target="www.usatoday.com" weight="1" />
+      <edge id="653" source="www.cbsnews.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="654" source="www.cbsnews.com" target="www.breitbart.com" weight="1" />
+      <edge id="655" source="www.cbsnews.com" target="www.politico.com" weight="1" />
+      <edge id="656" source="www.cbsnews.com" target="www.christiandaily.com" weight="1" />
+      <edge id="657" source="www.cbsnews.com" target="www.startribune.com" weight="1" />
+      <edge id="658" source="www.hellenicshippingnews.com" target="www.scientificamerican.com" weight="1" />
+      <edge id="659" source="www.hellenicshippingnews.com" target="www.rigzone.com" weight="1" />
+      <edge id="660" source="www.reviewjournal.com" target="www.latimes.com" weight="1" />
+      <edge id="661" source="www.reviewjournal.com" target="dailycaller.com" weight="1" />
+      <edge id="662" source="www.reviewjournal.com" target="www.uppermichiganssource.com" weight="1" />
+      <edge id="663" source="www.reviewjournal.com" target="www.npr.org" weight="1" />
+      <edge id="664" source="www.reviewjournal.com" target="www.factcheck.org" weight="1" />
+      <edge id="665" source="www.reviewjournal.com" target="news.vice.com" weight="1" />
+      <edge id="666" source="www.reviewjournal.com" target="www.breitbart.com" weight="1" />
+      <edge id="667" source="trailblazersblog.dallasnews.com" target="wealthmanagement.com" weight="1" />
+      <edge id="668" source="trailblazersblog.dallasnews.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="669" source="trailblazersblog.dallasnews.com" target="www.philly.com" weight="1" />
+      <edge id="670" source="trailblazersblog.dallasnews.com" target="www.npr.org" weight="1" />
+      <edge id="671" source="trailblazersblog.dallasnews.com" target="www.yahoo.com" weight="1" />
+      <edge id="672" source="trailblazersblog.dallasnews.com" target="www.berkshireeagle.com" weight="1" />
+      <edge id="673" source="www.cnbc.com" target="dailycaller.com" weight="1" />
+      <edge id="674" source="www.cnbc.com" target="www.wsj.com" weight="2" />
+      <edge id="675" source="www.cnbc.com" target="www.foxnews.com" weight="2" />
+      <edge id="676" source="www.cnbc.com" target="www.cincinnati.com" weight="1" />
+      <edge id="677" source="www.cnbc.com" target="www.nbcnews.com" weight="1" />
+      <edge id="678" source="www.cnbc.com" target="gawker.com" weight="1" />
+      <edge id="679" source="www.cnbc.com" target="www.cnn.com" weight="1" />
+      <edge id="680" source="www.cnbc.com" target="www.breitbart.com" weight="1" />
+      <edge id="681" source="www.cnbc.com" target="www.dispatch.com" weight="1" />
+      <edge id="682" source="www.cnbc.com" target="www.4029tv.com" weight="1" />
+      <edge id="683" source="www.cnbc.com" target="www.afr.com" weight="1" />
+      <edge id="684" source="www.cnbc.com" target="www.scpr.org" weight="1" />
+      <edge id="685" source="www.cnbc.com" target="www.usatoday.com" weight="3" />
+      <edge id="686" source="www.cnbc.com" target="www.indystar.com" weight="1" />
+      <edge id="687" source="www.cnbc.com" target="www.washingtonpost.com" weight="2" />
+      <edge id="688" source="www.cnbc.com" target="allafrica.com" weight="1" />
+      <edge id="689" source="www.cnbc.com" target="www.sacbee.com" weight="1" />
+      <edge id="690" source="www.cnbc.com" target="www.theguardian.com" weight="1" />
+      <edge id="691" source="www.cnbc.com" target="www.forbes.com" weight="1" />
+      <edge id="692" source="www.cnbc.com" target="frontrow.dmagazine.com" weight="1" />
+      <edge id="693" source="www.cnbc.com" target="www.newyorker.com" weight="1" />
+      <edge id="694" source="www.cnbc.com" target="www.seattletimes.com" weight="1" />
+      <edge id="695" source="townhall.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="696" source="townhall.com" target="thefederalist.com" weight="1" />
+      <edge id="697" source="townhall.com" target="www.theblaze.com" weight="1" />
+      <edge id="698" source="townhall.com" target="www.fool.com" weight="1" />
+      <edge id="699" source="townhall.com" target="www.breitbart.com" weight="1" />
+      <edge id="700" source="www.fool.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="701" source="www.fool.com" target="www.theblaze.com" weight="1" />
+      <edge id="702" source="www.fool.com" target="thefederalist.com" weight="1" />
+      <edge id="703" source="www.fool.com" target="www.breitbart.com" weight="1" />
+      <edge id="704" source="www.azcentral.com" target="www.upi.com" weight="1" />
+      <edge id="705" source="www.azcentral.com" target="ottawacitizen.com" weight="1" />
+      <edge id="706" source="www.azcentral.com" target="www.theguardian.com" weight="1" />
+      <edge id="707" source="www.azcentral.com" target="variety.com" weight="1" />
+      <edge id="708" source="www.azcentral.com" target="www.treehugger.com" weight="1" />
+      <edge id="709" source="www.treehugger.com" target="www.upi.com" weight="1" />
+      <edge id="710" source="www.treehugger.com" target="ottawacitizen.com" weight="1" />
+      <edge id="711" source="www.treehugger.com" target="www.theguardian.com" weight="1" />
+      <edge id="712" source="www.treehugger.com" target="variety.com" weight="1" />
+      <edge id="713" source="www.indystar.com" target="www.wsj.com" weight="1" />
+      <edge id="714" source="www.indystar.com" target="www.foxnews.com" weight="1" />
+      <edge id="715" source="www.indystar.com" target="www.theguardian.com" weight="1" />
+      <edge id="716" source="www.indystar.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="717" source="www.citizen-times.com" target="www.bankrate.com" weight="1" />
+      <edge id="718" source="www.citizen-times.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="719" source="www.citizen-times.com" target="www.prnewswire.com" weight="1" />
+      <edge id="720" source="www.citizen-times.com" target="wjon.com" weight="1" />
+      <edge id="721" source="www.citizen-times.com" target="www.altfi.com" weight="1" />
+      <edge id="722" source="www.newsmax.com" target="www.latimes.com" weight="1" />
+      <edge id="723" source="www.newsmax.com" target="www.scpr.org" weight="1" />
+      <edge id="724" source="www.newsmax.com" target="portlandtribune.com" weight="1" />
+      <edge id="725" source="www.newsmax.com" target="www.cincinnati.com" weight="1" />
+      <edge id="726" source="www.newsmax.com" target="www.forbes.com" weight="1" />
+      <edge id="727" source="www.newsmax.com" target="www.cleveland.com" weight="1" />
+      <edge id="728" source="allafrica.com" target="www.afr.com" weight="1" />
+      <edge id="729" source="allafrica.com" target="www.usatoday.com" weight="1" />
+      <edge id="730" source="allafrica.com" target="www.wsj.com" weight="1" />
+      <edge id="731" source="allafrica.com" target="www.newyorker.com" weight="1" />
+      <edge id="732" source="newrepublic.com" target="live.baltimoresun.com" weight="1" />
+      <edge id="733" source="newrepublic.com" target="www.nbcnews.com" weight="1" />
+      <edge id="734" source="newrepublic.com" target="m.starrfmonline.com" weight="1" />
+      <edge id="735" source="newrepublic.com" target="www.cnn.com" weight="1" />
+      <edge id="736" source="newrepublic.com" target="abcnews.go.com" weight="1" />
+      <edge id="737" source="newrepublic.com" target="patch.com" weight="1" />
+      <edge id="738" source="www.sacbee.com" target="dailycaller.com" weight="1" />
+      <edge id="739" source="www.sacbee.com" target="www.scpr.org" weight="1" />
+      <edge id="740" source="www.sacbee.com" target="frontrow.dmagazine.com" weight="1" />
+      <edge id="741" source="www.sacbee.com" target="www.seattletimes.com" weight="1" />
+      <edge id="742" source="www.sacbee.com" target="www.breitbart.com" weight="1" />
+      <edge id="743" source="www.theguardian.com" target="www.wsj.com" weight="1" />
+      <edge id="744" source="www.theguardian.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="745" source="www.theguardian.com" target="www.foxnews.com" weight="1" />
+      <edge id="746" source="www.theguardian.com" target="www.upi.com" weight="1" />
+      <edge id="747" source="www.theguardian.com" target="ottawacitizen.com" weight="1" />
+      <edge id="748" source="www.theguardian.com" target="variety.com" weight="1" />
+      <edge id="749" source="www.popsci.com" target="www.startupsmart.com.au" weight="1" />
+      <edge id="750" source="www.popsci.com" target="www.timesargus.com" weight="1" />
+      <edge id="751" source="www.popsci.com" target="thehill.com" weight="1" />
+      <edge id="752" source="www.popsci.com" target="www.theverge.com" weight="1" />
+      <edge id="753" source="www.popsci.com" target="wiat.com" weight="1" />
+      <edge id="754" source="www.forbes.com" target="dailycaller.com" weight="1" />
+      <edge id="755" source="www.forbes.com" target="www.foxnews.com" weight="1" />
+      <edge id="756" source="www.forbes.com" target="www.cincinnati.com" weight="1" />
+      <edge id="757" source="www.forbes.com" target="www.cleveland.com" weight="1" />
+      <edge id="758" source="www.forbes.com" target="blogs.wsj.com" weight="1" />
+      <edge id="759" source="www.forbes.com" target="www.dispatch.com" weight="1" />
+      <edge id="760" source="www.forbes.com" target="www.4029tv.com" weight="1" />
+      <edge id="761" source="www.forbes.com" target="portlandtribune.com" weight="1" />
+      <edge id="762" source="www.forbes.com" target="www.popularmechanics.com" weight="1" />
+      <edge id="763" source="www.forbes.com" target="www.scpr.org" weight="1" />
+      <edge id="764" source="www.forbes.com" target="www.usatoday.com" weight="1" />
+      <edge id="765" source="www.forbes.com" target="www.cbc.ca" weight="1" />
+      <edge id="766" source="www.forbes.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="767" source="www.forbes.com" target="www.greenbiz.com" weight="1" />
+      <edge id="768" source="www.forbes.com" target="www.newshub.co.nz" weight="1" />
+      <edge id="769" source="www.forbes.com" target="theferret.scot" weight="1" />
+      <edge id="770" source="www.forbes.com" target="reason.com" weight="1" />
+      <edge id="771" source="www.forbes.com" target="blog.ucsusa.org" weight="1" />
+      <edge id="772" source="www.forbes.com" target="www.latimes.com" weight="1" />
+      <edge id="773" source="www.forbes.com" target="theweek.com" weight="1" />
+      <edge id="774" source="www.cincinnati.com" target="www.latimes.com" weight="1" />
+      <edge id="775" source="www.cincinnati.com" target="www.scpr.org" weight="1" />
+      <edge id="776" source="www.cincinnati.com" target="www.usatoday.com" weight="1" />
+      <edge id="777" source="www.cincinnati.com" target="www.nbcnews.com" weight="1" />
+      <edge id="778" source="www.cincinnati.com" target="www.cleveland.com" weight="1" />
+      <edge id="779" source="www.cincinnati.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="780" source="www.cincinnati.com" target="gawker.com" weight="1" />
+      <edge id="781" source="www.cincinnati.com" target="portlandtribune.com" weight="1" />
+      <edge id="782" source="www.cincinnati.com" target="www.cnn.com" weight="1" />
+      <edge id="783" source="www.greenbiz.com" target="blogs.wsj.com" weight="1" />
+      <edge id="784" source="www.greenbiz.com" target="www.newshub.co.nz" weight="1" />
+      <edge id="785" source="www.greenbiz.com" target="www.cbc.ca" weight="1" />
+      <edge id="786" source="www.greenbiz.com" target="blog.ucsusa.org" weight="1" />
+      <edge id="787" source="www.greenbiz.com" target="theweek.com" weight="1" />
+      <edge id="788" source="variety.com" target="www.upi.com" weight="1" />
+      <edge id="789" source="variety.com" target="ottawacitizen.com" weight="1" />
+      <edge id="790" source="patch.com" target="live.baltimoresun.com" weight="1" />
+      <edge id="791" source="patch.com" target="www.nbcnews.com" weight="1" />
+      <edge id="792" source="patch.com" target="m.starrfmonline.com" weight="1" />
+      <edge id="793" source="patch.com" target="www.cnn.com" weight="1" />
+      <edge id="794" source="patch.com" target="abcnews.go.com" weight="1" />
+      <edge id="795" source="www.csmonitor.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="796" source="www.csmonitor.com" target="www.kykernel.com" weight="1" />
+      <edge id="797" source="www.csmonitor.com" target="www.moneytalksnews.com" weight="1" />
+      <edge id="798" source="www.csmonitor.com" target="www.sj-r.com" weight="1" />
+      <edge id="799" source="www.dispatch.com" target="www.foxnews.com" weight="1" />
+      <edge id="800" source="www.dispatch.com" target="www.usatoday.com" weight="1" />
+      <edge id="801" source="www.dispatch.com" target="www.4029tv.com" weight="1" />
+      <edge id="802" source="wjon.com" target="www.bankrate.com" weight="1" />
+      <edge id="803" source="wjon.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="804" source="wjon.com" target="www.prnewswire.com" weight="1" />
+      <edge id="805" source="wjon.com" target="www.altfi.com" weight="1" />
+      <edge id="806" source="www.genomeweb.com" target="www.latimes.com" weight="1" />
+      <edge id="807" source="www.genomeweb.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="808" source="www.genomeweb.com" target="espn.go.com" weight="1" />
+      <edge id="809" source="www.genomeweb.com" target="www.nbcnews.com" weight="1" />
+      <edge id="810" source="www.genomeweb.com" target="abcnews.go.com" weight="1" />
+      <edge id="811" source="www.genomeweb.com" target="thehill.com" weight="1" />
+      <edge id="812" source="www.genomeweb.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="813" source="www.genomeweb.com" target="www.freep.com" weight="1" />
+      <edge id="814" source="billmoyers.com" target="www.huffingtonpost.com" weight="1" />
+      <edge id="815" source="billmoyers.com" target="www.npr.org" weight="1" />
+      <edge id="816" source="billmoyers.com" target="www.latimes.com" weight="1" />
+      <edge id="817" source="billmoyers.com" target="abcnews.go.com" weight="1" />
+      <edge id="818" source="www.afr.com" target="www.wsj.com" weight="1" />
+      <edge id="819" source="www.afr.com" target="www.usatoday.com" weight="1" />
+      <edge id="820" source="www.afr.com" target="www.newyorker.com" weight="1" />
+      <edge id="821" source="www.newyorker.com" target="www.wsj.com" weight="1" />
+      <edge id="822" source="www.newyorker.com" target="www.usatoday.com" weight="1" />
+      <edge id="823" source="www.huffingtonpost.com" target="thefederalist.com" weight="1" />
+      <edge id="824" source="www.huffingtonpost.com" target="healthcare.utah.edu" weight="1" />
+      <edge id="825" source="www.huffingtonpost.com" target="dunyanews.tv" weight="1" />
+      <edge id="826" source="www.huffingtonpost.com" target="www.nbcnews.com" weight="1" />
+      <edge id="827" source="www.huffingtonpost.com" target="www.kmbc.com" weight="1" />
+      <edge id="828" source="www.huffingtonpost.com" target="www.bankrate.com" weight="1" />
+      <edge id="829" source="www.huffingtonpost.com" target="www.fredericksburg.com" weight="1" />
+      <edge id="830" source="www.huffingtonpost.com" target="www.theblaze.com" weight="1" />
+      <edge id="831" source="www.huffingtonpost.com" target="www.latimes.com" weight="2" />
+      <edge id="832" source="www.huffingtonpost.com" target="www.altfi.com" weight="1" />
+      <edge id="833" source="www.huffingtonpost.com" target="www.prnewswire.com" weight="1" />
+      <edge id="834" source="www.huffingtonpost.com" target="www.npr.org" weight="1" />
+      <edge id="835" source="www.huffingtonpost.com" target="www.attn.com" weight="1" />
+      <edge id="836" source="www.huffingtonpost.com" target="www.washingtonpost.com" weight="1" />
+      <edge id="837" source="www.huffingtonpost.com" target="www.freep.com" weight="1" />
+      <edge id="838" source="www.huffingtonpost.com" target="www.breitbart.com" weight="1" />
+      <edge id="839" source="www.huffingtonpost.com" target="espn.go.com" weight="1" />
+      <edge id="840" source="www.huffingtonpost.com" target="abcnews.go.com" weight="2" />
+      <edge id="841" source="www.huffingtonpost.com" target="thehill.com" weight="1" />
+      <edge id="842" source="www.usatoday.com" target="www.wsj.com" weight="1" />
+      <edge id="843" source="www.usatoday.com" target="www.foxnews.com" weight="1" />
+      <edge id="844" source="www.usatoday.com" target="www.nbcnews.com" weight="1" />
+      <edge id="845" source="www.usatoday.com" target="gawker.com" weight="1" />
+      <edge id="846" source="www.usatoday.com" target="www.4029tv.com" weight="1" />
+      <edge id="847" source="www.usatoday.com" target="abc7ny.com" weight="1" />
+      <edge id="848" source="www.usatoday.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="849" source="www.usatoday.com" target="www.washingtonpost.com" weight="2" />
+      <edge id="850" source="www.usatoday.com" target="www.cnn.com" weight="1" />
+      <edge id="851" source="www.usatoday.com" target="www.startribune.com" weight="1" />
+      <edge id="852" source="www.upi.com" target="ottawacitizen.com" weight="1" />
+      <edge id="853" source="www.washingtonpost.com" target="www.wsj.com" weight="1" />
+      <edge id="854" source="www.washingtonpost.com" target="www.houmatoday.com" weight="1" />
+      <edge id="855" source="www.washingtonpost.com" target="espn.go.com" weight="1" />
+      <edge id="856" source="www.washingtonpost.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="857" source="www.washingtonpost.com" target="www.ktvu.com" weight="1" />
+      <edge id="858" source="www.washingtonpost.com" target="abc7ny.com" weight="1" />
+      <edge id="859" source="www.washingtonpost.com" target="www.cnn.com" weight="1" />
+      <edge id="860" source="www.washingtonpost.com" target="www.marinij.com" weight="1" />
+      <edge id="861" source="www.washingtonpost.com" target="time.com" weight="1" />
+      <edge id="862" source="www.washingtonpost.com" target="www.startribune.com" weight="1" />
+      <edge id="863" source="www.washingtonpost.com" target="dailycaller.com" weight="2" />
+      <edge id="864" source="www.washingtonpost.com" target="www.popularmechanics.com" weight="1" />
+      <edge id="865" source="www.washingtonpost.com" target="www.foxnews.com" weight="1" />
+      <edge id="866" source="www.washingtonpost.com" target="www.nbcnews.com" weight="2" />
+      <edge id="867" source="www.washingtonpost.com" target="gawker.com" weight="1" />
+      <edge id="868" source="www.washingtonpost.com" target="blogs.wsj.com" weight="1" />
+      <edge id="869" source="www.washingtonpost.com" target="abcnews.go.com" weight="1" />
+      <edge id="870" source="www.washingtonpost.com" target="www.latimes.com" weight="1" />
+      <edge id="871" source="www.washingtonpost.com" target="screencrush.com" weight="1" />
+      <edge id="872" source="www.washingtonpost.com" target="thehill.com" weight="2" />
+      <edge id="873" source="www.washingtonpost.com" target="www.freep.com" weight="1" />
+      <edge id="874" source="www.washingtonpost.com" target="www.breitbart.com" weight="1" />
+      <edge id="875" source="www.washingtonpost.com" target="theferret.scot" weight="1" />
+      <edge id="876" source="www.washingtonpost.com" target="reason.com" weight="2" />
+      <edge id="877" source="wealthmanagement.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="878" source="wealthmanagement.com" target="www.philly.com" weight="1" />
+      <edge id="879" source="wealthmanagement.com" target="www.npr.org" weight="1" />
+      <edge id="880" source="wealthmanagement.com" target="www.berkshireeagle.com" weight="1" />
+      <edge id="881" source="wealthmanagement.com" target="www.yahoo.com" weight="1" />
+      <edge id="882" source="www.politico.com" target="www.breitbart.com" weight="1" />
+      <edge id="883" source="www.politico.com" target="www.slate.com" weight="1" />
+      <edge id="884" source="www.politico.com" target="abcnews.go.com" weight="1" />
+      <edge id="885" source="www.newshub.co.nz" target="www.cbc.ca" weight="1" />
+      <edge id="886" source="www.newshub.co.nz" target="blogs.wsj.com" weight="1" />
+      <edge id="887" source="www.newshub.co.nz" target="blog.ucsusa.org" weight="1" />
+      <edge id="888" source="www.newshub.co.nz" target="theweek.com" weight="1" />
+      <edge id="889" source="abc7ny.com" target="www.startribune.com" weight="1" />
+      <edge id="890" source="abc7ny.com" target="www.chicagotribune.com" weight="1" />
+      <edge id="891" source="www.marinij.com" target="dailycaller.com" weight="1" />
+      <edge id="892" source="www.marinij.com" target="www.houmatoday.com" weight="1" />
+      <edge id="893" source="www.marinij.com" target="thehill.com" weight="1" />
+      <edge id="894" source="www.marinij.com" target="time.com" weight="1" />
+      <edge id="895" source="www.marinij.com" target="www.ktvu.com" weight="1" />
+      <edge id="896" source="www.christiandaily.com" target="cnsnews.com" weight="1" />
+      <edge id="897" source="www.freep.com" target="www.latimes.com" weight="1" />
+      <edge id="898" source="www.freep.com" target="espn.go.com" weight="1" />
+      <edge id="899" source="www.freep.com" target="www.nbcnews.com" weight="1" />
+      <edge id="900" source="www.freep.com" target="abcnews.go.com" weight="1" />
+      <edge id="901" source="www.freep.com" target="thehill.com" weight="1" />
+      <edge id="902" source="www.seattletimes.com" target="dailycaller.com" weight="1" />
+      <edge id="903" source="www.seattletimes.com" target="www.scpr.org" weight="1" />
+      <edge id="904" source="www.seattletimes.com" target="frontrow.dmagazine.com" weight="1" />
+      <edge id="905" source="www.seattletimes.com" target="www.breitbart.com" weight="1" />
+      <edge id="906" source="healthcare.utah.edu" target="www.fredericksburg.com" weight="1" />
+      <edge id="907" source="healthcare.utah.edu" target="www.attn.com" weight="1" />
+      <edge id="908" source="healthcare.utah.edu" target="dunyanews.tv" weight="1" />
+      <edge id="909" source="healthcare.utah.edu" target="www.kmbc.com" weight="1" />
+      <edge id="910" source="dunyanews.tv" target="www.fredericksburg.com" weight="1" />
+      <edge id="911" source="dunyanews.tv" target="www.attn.com" weight="1" />
+      <edge id="912" source="dunyanews.tv" target="www.kmbc.com" weight="1" />
+      <edge id="913" source="www.mmtimes.com" target="www.latimes.com" weight="1" />
+      <edge id="914" source="www.kykernel.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="915" source="www.kykernel.com" target="www.moneytalksnews.com" weight="1" />
+      <edge id="916" source="www.kykernel.com" target="www.sj-r.com" weight="1" />
+      <edge id="917" source="m.starrfmonline.com" target="live.baltimoresun.com" weight="1" />
+      <edge id="918" source="m.starrfmonline.com" target="www.nbcnews.com" weight="1" />
+      <edge id="919" source="m.starrfmonline.com" target="www.cnn.com" weight="1" />
+      <edge id="920" source="m.starrfmonline.com" target="abcnews.go.com" weight="1" />
+      <edge id="921" source="www.bankrate.com" target="www.prnewswire.com" weight="1" />
+      <edge id="922" source="www.bankrate.com" target="www.altfi.com" weight="1" />
+      <edge id="923" source="blogs.wsj.com" target="www.breitbart.com" weight="1" />
+      <edge id="924" source="blogs.wsj.com" target="screencrush.com" weight="1" />
+      <edge id="925" source="blogs.wsj.com" target="www.cbc.ca" weight="1" />
+      <edge id="926" source="blogs.wsj.com" target="reason.com" weight="1" />
+      <edge id="927" source="blogs.wsj.com" target="blog.ucsusa.org" weight="1" />
+      <edge id="928" source="blogs.wsj.com" target="theweek.com" weight="1" />
+      <edge id="929" source="www.sj-r.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="930" source="www.sj-r.com" target="www.moneytalksnews.com" weight="1" />
+      <edge id="931" source="portlandtribune.com" target="www.latimes.com" weight="1" />
+      <edge id="932" source="portlandtribune.com" target="www.scpr.org" weight="1" />
+      <edge id="933" source="portlandtribune.com" target="www.cleveland.com" weight="1" />
+      <edge id="934" source="time.com" target="dailycaller.com" weight="1" />
+      <edge id="935" source="time.com" target="www.latimes.com" weight="1" />
+      <edge id="936" source="time.com" target="www.ktvu.com" weight="1" />
+      <edge id="937" source="time.com" target="www.npr.org" weight="1" />
+      <edge id="938" source="time.com" target="abcnews.go.com" weight="2" />
+      <edge id="939" source="time.com" target="thehill.com" weight="1" />
+      <edge id="940" source="time.com" target="www.houmatoday.com" weight="1" />
+      <edge id="941" source="time.com" target="nypost.com" weight="1" />
+      <edge id="942" source="time.com" target="www.cnn.com" weight="2" />
+      <edge id="943" source="www.popularmechanics.com" target="dailycaller.com" weight="1" />
+      <edge id="944" source="www.popularmechanics.com" target="reason.com" weight="1" />
+      <edge id="945" source="www.popularmechanics.com" target="theferret.scot" weight="1" />
+      <edge id="946" source="www.scpr.org" target="dailycaller.com" weight="1" />
+      <edge id="947" source="www.scpr.org" target="www.latimes.com" weight="1" />
+      <edge id="948" source="www.scpr.org" target="www.cleveland.com" weight="1" />
+      <edge id="949" source="www.scpr.org" target="www.breitbart.com" weight="1" />
+      <edge id="950" source="www.scpr.org" target="frontrow.dmagazine.com" weight="1" />
+      <edge id="951" source="www.altfi.com" target="www.prnewswire.com" weight="1" />
+      <edge id="952" source="www.npr.org" target="dailycaller.com" weight="1" />
+      <edge id="953" source="www.npr.org" target="www.bostonglobe.com" weight="1" />
+      <edge id="954" source="www.npr.org" target="www.philly.com" weight="1" />
+      <edge id="955" source="www.npr.org" target="www.cnn.com" weight="1" />
+      <edge id="956" source="www.npr.org" target="www.uppermichiganssource.com" weight="1" />
+      <edge id="957" source="www.npr.org" target="www.yahoo.com" weight="1" />
+      <edge id="958" source="www.npr.org" target="abcnews.go.com" weight="2" />
+      <edge id="959" source="www.npr.org" target="www.latimes.com" weight="2" />
+      <edge id="960" source="www.npr.org" target="www.berkshireeagle.com" weight="1" />
+      <edge id="961" source="www.npr.org" target="www.breitbart.com" weight="1" />
+      <edge id="962" source="www.npr.org" target="www.factcheck.org" weight="1" />
+      <edge id="963" source="www.npr.org" target="news.vice.com" weight="1" />
+      <edge id="964" source="www.moneytalksnews.com" target="blogs.spectator.co.uk" weight="1" />
+      <edge id="965" source="www.berkshireeagle.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="966" source="www.berkshireeagle.com" target="www.philly.com" weight="1" />
+      <edge id="967" source="www.berkshireeagle.com" target="www.yahoo.com" weight="1" />
+      <edge id="968" source="www.jpost.com" target="dailycaller.com" weight="1" />
+      <edge id="969" source="www.jpost.com" target="thehill.com" weight="1" />
+      <edge id="970" source="www.jpost.com" target="www.cnn.com" weight="1" />
+      <edge id="971" source="www.breitbart.com" target="thefederalist.com" weight="1" />
+      <edge id="972" source="www.breitbart.com" target="dailycaller.com" weight="2" />
+      <edge id="973" source="www.breitbart.com" target="reason.com" weight="1" />
+      <edge id="974" source="www.breitbart.com" target="www.slate.com" weight="1" />
+      <edge id="975" source="www.breitbart.com" target="www.uppermichiganssource.com" weight="1" />
+      <edge id="976" source="www.breitbart.com" target="news.vice.com" weight="1" />
+      <edge id="977" source="www.breitbart.com" target="www.theblaze.com" weight="1" />
+      <edge id="978" source="www.breitbart.com" target="abcnews.go.com" weight="1" />
+      <edge id="979" source="www.breitbart.com" target="www.latimes.com" weight="1" />
+      <edge id="980" source="www.breitbart.com" target="screencrush.com" weight="1" />
+      <edge id="981" source="www.breitbart.com" target="frontrow.dmagazine.com" weight="1" />
+      <edge id="982" source="www.breitbart.com" target="www.factcheck.org" weight="1" />
+      <edge id="983" source="www.rigzone.com" target="www.scientificamerican.com" weight="1" />
+      <edge id="984" source="www.startupsmart.com.au" target="www.timesargus.com" weight="1" />
+      <edge id="985" source="www.startupsmart.com.au" target="thehill.com" weight="1" />
+      <edge id="986" source="www.startupsmart.com.au" target="www.theverge.com" weight="1" />
+      <edge id="987" source="www.startupsmart.com.au" target="wiat.com" weight="1" />
+      <edge id="988" source="blog.ucsusa.org" target="www.cbc.ca" weight="1" />
+      <edge id="989" source="blog.ucsusa.org" target="theweek.com" weight="1" />
+      <edge id="990" source="wiat.com" target="www.timesargus.com" weight="1" />
+      <edge id="991" source="wiat.com" target="thehill.com" weight="1" />
+      <edge id="992" source="wiat.com" target="www.theverge.com" weight="1" />
+      <edge id="993" source="theweek.com" target="www.cbc.ca" weight="1" />
+      <edge id="994" source="www.theverge.com" target="www.timesargus.com" weight="1" />
+      <edge id="995" source="www.theverge.com" target="thehill.com" weight="1" />
+      <edge id="996" source="www.kmbc.com" target="www.fredericksburg.com" weight="1" />
+      <edge id="997" source="www.kmbc.com" target="www.attn.com" weight="1" />
+      <edge id="998" source="www.wsj.com" target="www.foxnews.com" weight="1" />
+      <edge id="999" source="www.4029tv.com" target="www.foxnews.com" weight="1" />
+      <edge id="1000" source="www.cleveland.com" target="www.latimes.com" weight="1" />
+      <edge id="1001" source="www.houmatoday.com" target="dailycaller.com" weight="1" />
+      <edge id="1002" source="www.houmatoday.com" target="thehill.com" weight="1" />
+      <edge id="1003" source="www.houmatoday.com" target="www.ktvu.com" weight="1" />
+      <edge id="1004" source="espn.go.com" target="www.latimes.com" weight="1" />
+      <edge id="1005" source="espn.go.com" target="www.nbcnews.com" weight="1" />
+      <edge id="1006" source="espn.go.com" target="abcnews.go.com" weight="1" />
+      <edge id="1007" source="espn.go.com" target="thehill.com" weight="1" />
+      <edge id="1008" source="www.lifenews.com" target="nypost.com" weight="1" />
+      <edge id="1009" source="www.lifenews.com" target="thehill.com" weight="1" />
+      <edge id="1010" source="www.lifenews.com" target="www.nbcnews.com" weight="1" />
+      <edge id="1011" source="www.lifenews.com" target="abcnews.go.com" weight="1" />
+      <edge id="1012" source="www.chicagotribune.com" target="www.startribune.com" weight="1" />
+      <edge id="1013" source="www.yahoo.com" target="www.philly.com" weight="1" />
+      <edge id="1014" source="www.yahoo.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="1015" source="www.timesargus.com" target="thehill.com" weight="1" />
+      <edge id="1016" source="www.ktvu.com" target="dailycaller.com" weight="1" />
+      <edge id="1017" source="www.ktvu.com" target="thehill.com" weight="1" />
+      <edge id="1018" source="www.fredericksburg.com" target="www.attn.com" weight="1" />
+      <edge id="1019" source="gawker.com" target="www.nbcnews.com" weight="1" />
+      <edge id="1020" source="gawker.com" target="www.cnn.com" weight="1" />
+      <edge id="1021" source="live.baltimoresun.com" target="www.nbcnews.com" weight="1" />
+      <edge id="1022" source="live.baltimoresun.com" target="www.cnn.com" weight="1" />
+      <edge id="1023" source="live.baltimoresun.com" target="abcnews.go.com" weight="1" />
+      <edge id="1024" source="www.cnn.com" target="dailycaller.com" weight="1" />
+      <edge id="1025" source="www.cnn.com" target="www.nbcnews.com" weight="2" />
+      <edge id="1026" source="www.cnn.com" target="nypost.com" weight="1" />
+      <edge id="1027" source="www.cnn.com" target="abcnews.go.com" weight="3" />
+      <edge id="1028" source="www.cnn.com" target="www.latimes.com" weight="1" />
+      <edge id="1029" source="www.cnn.com" target="thehill.com" weight="1" />
+      <edge id="1030" source="frontrow.dmagazine.com" target="dailycaller.com" weight="1" />
+      <edge id="1031" source="thehill.com" target="dailycaller.com" weight="2" />
+      <edge id="1032" source="thehill.com" target="www.nbcnews.com" weight="2" />
+      <edge id="1033" source="thehill.com" target="nypost.com" weight="1" />
+      <edge id="1034" source="thehill.com" target="abcnews.go.com" weight="2" />
+      <edge id="1035" source="thehill.com" target="www.latimes.com" weight="1" />
+      <edge id="1036" source="dailycaller.com" target="www.factcheck.org" weight="1" />
+      <edge id="1037" source="dailycaller.com" target="reason.com" weight="1" />
+      <edge id="1038" source="dailycaller.com" target="www.uppermichiganssource.com" weight="1" />
+      <edge id="1039" source="dailycaller.com" target="news.vice.com" weight="1" />
+      <edge id="1040" source="dailycaller.com" target="www.latimes.com" weight="1" />
+      <edge id="1041" source="dailycaller.com" target="theferret.scot" weight="1" />
+      <edge id="1042" source="www.philly.com" target="www.bostonglobe.com" weight="1" />
+      <edge id="1043" source="www.nbcnews.com" target="nypost.com" weight="1" />
+      <edge id="1044" source="www.nbcnews.com" target="www.latimes.com" weight="1" />
+      <edge id="1045" source="www.nbcnews.com" target="abcnews.go.com" weight="3" />
+      <edge id="1046" source="www.slate.com" target="abcnews.go.com" weight="1" />
+      <edge id="1047" source="www.uppermichiganssource.com" target="www.latimes.com" weight="1" />
+      <edge id="1048" source="www.uppermichiganssource.com" target="www.factcheck.org" weight="1" />
+      <edge id="1049" source="www.uppermichiganssource.com" target="news.vice.com" weight="1" />
+      <edge id="1050" source="nypost.com" target="www.latimes.com" weight="1" />
+      <edge id="1051" source="nypost.com" target="abcnews.go.com" weight="2" />
+      <edge id="1052" source="www.theblaze.com" target="thefederalist.com" weight="1" />
+      <edge id="1053" source="abcnews.go.com" target="www.latimes.com" weight="3" />
+      <edge id="1054" source="www.latimes.com" target="www.factcheck.org" weight="1" />
+      <edge id="1055" source="www.latimes.com" target="news.vice.com" weight="1" />
+      <edge id="1056" source="www.factcheck.org" target="news.vice.com" weight="1" />
+      <edge id="1057" source="screencrush.com" target="reason.com" weight="1" />
+      <edge id="1058" source="theferret.scot" target="reason.com" weight="1" />
+    </edges>
+  </graph>
+</gexf>

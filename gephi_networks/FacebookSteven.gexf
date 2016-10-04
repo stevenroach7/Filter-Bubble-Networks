@@ -1,0 +1,1002 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="dailymail" label="dailymail" />
+      <node id="canine.american.society" label="canine.american.society" />
+      <node id="glennbeck" label="glennbeck" />
+      <node id="jack.mccarthy.509" label="jack.mccarthy.509" />
+      <node id="politico" label="politico" />
+      <node id="1525929221068833" label="1525929221068833" />
+      <node id="breitbart" label="breitbart" />
+      <node id="icheoku" label="icheoku" />
+      <node id="donaldtrump" label="donaldtrump" />
+      <node id="cnn" label="cnn" />
+      <node id="katiecouric" label="katiecouric" />
+      <node id="theguardian" label="theguardian" />
+      <node id="steveharvey" label="steveharvey" />
+      <node id="amindsdream" label="amindsdream" />
+      <node id="motoringmiddleeast" label="motoringmiddleeast" />
+      <node id="theatlantic" label="theatlantic" />
+      <node id="foxnews" label="foxnews" />
+      <node id="defineamerican" label="defineamerican" />
+      <node id="senatorsanders" label="senatorsanders" />
+      <node id="latimes" label="latimes" />
+      <node id="ufi" label="ufi" />
+      <node id="ilikeobamacare" label="ilikeobamacare" />
+      <node id="yahoonews" label="yahoonews" />
+      <node id="reformimmigrationforamerica" label="reformimmigrationforamerica" />
+      <node id="barackobama" label="barackobama" />
+      <node id="mckinley.swift" label="mckinley.swift" />
+      <node id="wsj" label="wsj" />
+      <node id="gabe.cornierbridgeforth" label="gabe.cornierbridgeforth" />
+      <node id="hillaryclinton" label="hillaryclinton" />
+      <node id="nm2255" label="nm2255" />
+      <node id="zchaston.anderson" label="zchaston.anderson" />
+      <node id="berniesanders" label="berniesanders" />
+      <node id="truthout.org" label="truthout.org" />
+      <node id="endowmentethics" label="endowmentethics" />
+      <node id="britany.howell.1" label="britany.howell.1" />
+      <node id="maserati" label="maserati" />
+      <node id="talkopanreporter" label="talkopanreporter" />
+      <node id="deutschdoza" label="deutschdoza" />
+      <node id="search" label="search" />
+      <node id="media" label="media" />
+      <node id="ted" label="ted" />
+      <node id="shares" label="shares" />
+      <node id="nationalrifleassociation" label="nationalrifleassociation" />
+      <node id="mikehuckabee" label="mikehuckabee" />
+      <node id="topic" label="topic" />
+      <node id="huffingtonpost" label="huffingtonpost" />
+      <node id="refinery29" label="refinery29" />
+      <node id="josh.colvin.73" label="josh.colvin.73" />
+      <node id="rbreich" label="rbreich" />
+      <node id="ericscottbaines" label="ericscottbaines" />
+      <node id="rainforestactionnetwork" label="rainforestactionnetwork" />
+      <node id="travis.m.nelson1" label="travis.m.nelson1" />
+      <node id="cnnpolitics" label="cnnpolitics" />
+      <node id="scientificamerican" label="scientificamerican" />
+      <node id="kellygoldenfanpage" label="kellygoldenfanpage" />
+      <node id="help" label="help" />
+      <node id="huffpostpolitics" label="huffpostpolitics" />
+      <node id="thehermancain" label="thehermancain" />
+      <node id="moyersandcompany" label="moyersandcompany" />
+      <node id="theflama" label="theflama" />
+      <node id="about" label="about" />
+      <node id="financialtimes" label="financialtimes" />
+      <node id="ericbradnercnn" label="ericbradnercnn" />
+      <node id="privacy" label="privacy" />
+      <node id="dee1music" label="dee1music" />
+      <node id="elizabethnbcnews" label="elizabethnbcnews" />
+      <node id="ted.knaak" label="ted.knaak" />
+      <node id="lewishamilton" label="lewishamilton" />
+      <node id="businessinsider.politics" label="businessinsider.politics" />
+      <node id="techinsider" label="techinsider" />
+      <node id="nbcnews" label="nbcnews" />
+      <node id="abcnews" label="abcnews" />
+      <node id="esquireme" label="esquireme" />
+      <node id="hostile-politics-1525929221068833" label="hostile-politics-1525929221068833" />
+      <node id="usatoday" label="usatoday" />
+      <node id="ajplusenglish" label="ajplusenglish" />
+      <node id="kakinziger13" label="kakinziger13" />
+      <node id="pages" label="pages" />
+      <node id="heidi.bjornlie" label="heidi.bjornlie" />
+      <node id="theblaze" label="theblaze" />
+      <node id="jav" label="jav" />
+      <node id="anton.m.fuchs" label="anton.m.fuchs" />
+      <node id="seewaymore" label="seewaymore" />
+      <node id="donaldjtrumpjr" label="donaldjtrumpjr" />
+      <node id="gustavusadolphuscollege" label="gustavusadolphuscollege" />
+      <node id="nowthisnews" label="nowthisnews" />
+      <node id="potus" label="potus" />
+      <node id="realsimple" label="realsimple" />
+      <node id="daveramsey" label="daveramsey" />
+      <node id="breakingnews" label="breakingnews" />
+      <node id="plannedparenthoodaction" label="plannedparenthoodaction" />
+      <node id="officialanncoulter" label="officialanncoulter" />
+      <node id="johnkasich" label="johnkasich" />
+      <node id="sarita.hernandez.528" label="sarita.hernandez.528" />
+      <node id="tom.mccollin" label="tom.mccollin" />
+      <node id="businessinsider" label="businessinsider" />
+      <node id="tomilahren" label="tomilahren" />
+      <node id="nytopinion" label="nytopinion" />
+      <node id="nytimes" label="nytimes" />
+      <node id="emily.sylvestre.3" label="emily.sylvestre.3" />
+      <node id="newyorker" label="newyorker" />
+      <node id="theonion" label="theonion" />
+      <node id="huffpostwomen" label="huffpostwomen" />
+      <node id="wsjopinion" label="wsjopinion" />
+      <node id="yahoo" label="yahoo" />
+      <node id="tedcruzpage" label="tedcruzpage" />
+      <node id="saynotobet" label="saynotobet" />
+      <node id="cbsnews" label="cbsnews" />
+      <node id="mitnews" label="mitnews" />
+      <node id="hashtag" label="hashtag" />
+      <node id="foramerica" label="foramerica" />
+      <node id="michaelalioto.1" label="michaelalioto.1" />
+      <node id="vox" label="vox" />
+      <node id="theeconomist" label="theeconomist" />
+      <node id="maseratimiddleeast" label="maseratimiddleeast" />
+      <node id="officialgrahamnash" label="officialgrahamnash" />
+      <node id="officallawrencejones" label="officallawrencejones" />
+      <node id="womensrightsnews" label="womensrightsnews" />
+      <node id="olivia.c.frey" label="olivia.c.frey" />
+      <node id="washingtonpost" label="washingtonpost" />
+    </nodes>
+    <edges>
+      <edge id="0" source="dailymail" target="shares" weight="1" />
+      <edge id="1" source="dailymail" target="barackobama" weight="1" />
+      <edge id="2" source="dailymail" target="ufi" weight="1" />
+      <edge id="3" source="dailymail" target="search" weight="1" />
+      <edge id="4" source="dailymail" target="theguardian" weight="1" />
+      <edge id="5" source="canine.american.society" target="vox" weight="1" />
+      <edge id="6" source="canine.american.society" target="pages" weight="1" />
+      <edge id="7" source="canine.american.society" target="shares" weight="1" />
+      <edge id="8" source="canine.american.society" target="search" weight="1" />
+      <edge id="9" source="canine.american.society" target="zchaston.anderson" weight="1" />
+      <edge id="10" source="canine.american.society" target="nytimes" weight="1" />
+      <edge id="11" source="canine.american.society" target="help" weight="1" />
+      <edge id="12" source="canine.american.society" target="privacy" weight="1" />
+      <edge id="13" source="canine.american.society" target="ufi" weight="1" />
+      <edge id="14" source="canine.american.society" target="nytopinion" weight="1" />
+      <edge id="15" source="glennbeck" target="wsjopinion" weight="1" />
+      <edge id="16" source="glennbeck" target="cnnpolitics" weight="1" />
+      <edge id="17" source="glennbeck" target="shares" weight="2" />
+      <edge id="18" source="glennbeck" target="nbcnews" weight="1" />
+      <edge id="19" source="glennbeck" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="20" source="glennbeck" target="1525929221068833" weight="1" />
+      <edge id="21" source="glennbeck" target="hashtag" weight="1" />
+      <edge id="22" source="glennbeck" target="ufi" weight="2" />
+      <edge id="23" source="glennbeck" target="tomilahren" weight="1" />
+      <edge id="24" source="glennbeck" target="theblaze" weight="1" />
+      <edge id="25" source="glennbeck" target="cnn" weight="1" />
+      <edge id="26" source="glennbeck" target="mckinley.swift" weight="1" />
+      <edge id="27" source="glennbeck" target="wsj" weight="1" />
+      <edge id="28" source="glennbeck" target="officallawrencejones" weight="1" />
+      <edge id="29" source="glennbeck" target="ericbradnercnn" weight="1" />
+      <edge id="30" source="glennbeck" target="huffpostpolitics" weight="1" />
+      <edge id="31" source="glennbeck" target="search" weight="2" />
+      <edge id="32" source="jack.mccarthy.509" target="shares" weight="2" />
+      <edge id="33" source="jack.mccarthy.509" target="gustavusadolphuscollege" weight="1" />
+      <edge id="34" source="jack.mccarthy.509" target="senatorsanders" weight="1" />
+      <edge id="35" source="jack.mccarthy.509" target="ufi" weight="2" />
+      <edge id="36" source="jack.mccarthy.509" target="newyorker" weight="1" />
+      <edge id="37" source="jack.mccarthy.509" target="pages" weight="2" />
+      <edge id="38" source="jack.mccarthy.509" target="cnn" weight="1" />
+      <edge id="39" source="jack.mccarthy.509" target="anton.m.fuchs" weight="1" />
+      <edge id="40" source="jack.mccarthy.509" target="endowmentethics" weight="1" />
+      <edge id="41" source="jack.mccarthy.509" target="emily.sylvestre.3" weight="1" />
+      <edge id="42" source="jack.mccarthy.509" target="search" weight="2" />
+      <edge id="43" source="jack.mccarthy.509" target="nbcnews" weight="1" />
+      <edge id="44" source="politico" target="shares" weight="1" />
+      <edge id="45" source="politico" target="breakingnews" weight="1" />
+      <edge id="46" source="politico" target="kellygoldenfanpage" weight="1" />
+      <edge id="47" source="politico" target="travis.m.nelson1" weight="1" />
+      <edge id="48" source="politico" target="ufi" weight="1" />
+      <edge id="49" source="politico" target="search" weight="1" />
+      <edge id="50" source="politico" target="icheoku" weight="1" />
+      <edge id="51" source="1525929221068833" target="wsjopinion" weight="1" />
+      <edge id="52" source="1525929221068833" target="cnnpolitics" weight="1" />
+      <edge id="53" source="1525929221068833" target="shares" weight="1" />
+      <edge id="54" source="1525929221068833" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="55" source="1525929221068833" target="huffpostpolitics" weight="1" />
+      <edge id="56" source="1525929221068833" target="ufi" weight="1" />
+      <edge id="57" source="1525929221068833" target="tomilahren" weight="1" />
+      <edge id="58" source="1525929221068833" target="theblaze" weight="1" />
+      <edge id="59" source="1525929221068833" target="mckinley.swift" weight="1" />
+      <edge id="60" source="1525929221068833" target="wsj" weight="1" />
+      <edge id="61" source="1525929221068833" target="ericbradnercnn" weight="1" />
+      <edge id="62" source="1525929221068833" target="search" weight="1" />
+      <edge id="63" source="breitbart" target="shares" weight="1" />
+      <edge id="64" source="breitbart" target="cnn" weight="1" />
+      <edge id="65" source="breitbart" target="daveramsey" weight="1" />
+      <edge id="66" source="breitbart" target="ericscottbaines" weight="1" />
+      <edge id="67" source="breitbart" target="theflama" weight="1" />
+      <edge id="68" source="breitbart" target="seewaymore" weight="1" />
+      <edge id="69" source="breitbart" target="search" weight="1" />
+      <edge id="70" source="breitbart" target="ufi" weight="1" />
+      <edge id="71" source="breitbart" target="nowthisnews" weight="1" />
+      <edge id="72" source="breitbart" target="dee1music" weight="1" />
+      <edge id="73" source="icheoku" target="shares" weight="1" />
+      <edge id="74" source="icheoku" target="breakingnews" weight="1" />
+      <edge id="75" source="icheoku" target="kellygoldenfanpage" weight="1" />
+      <edge id="76" source="icheoku" target="travis.m.nelson1" weight="1" />
+      <edge id="77" source="icheoku" target="ufi" weight="1" />
+      <edge id="78" source="icheoku" target="search" weight="1" />
+      <edge id="79" source="donaldtrump" target="cnnpolitics" weight="2" />
+      <edge id="80" source="donaldtrump" target="shares" weight="4" />
+      <edge id="81" source="donaldtrump" target="tedcruzpage" weight="3" />
+      <edge id="82" source="donaldtrump" target="nbcnews" weight="1" />
+      <edge id="83" source="donaldtrump" target="hashtag" weight="2" />
+      <edge id="84" source="donaldtrump" target="johnkasich" weight="2" />
+      <edge id="85" source="donaldtrump" target="ufi" weight="4" />
+      <edge id="86" source="donaldtrump" target="washingtonpost" weight="1" />
+      <edge id="87" source="donaldtrump" target="businessinsider.politics" weight="1" />
+      <edge id="88" source="donaldtrump" target="cnn" weight="3" />
+      <edge id="89" source="donaldtrump" target="search" weight="4" />
+      <edge id="90" source="donaldtrump" target="donaldjtrumpjr" weight="1" />
+      <edge id="91" source="donaldtrump" target="talkopanreporter" weight="1" />
+      <edge id="92" source="donaldtrump" target="hillaryclinton" weight="1" />
+      <edge id="93" source="cnn" target="cnnpolitics" weight="1" />
+      <edge id="94" source="cnn" target="help" weight="2" />
+      <edge id="95" source="cnn" target="gabe.cornierbridgeforth" weight="1" />
+      <edge id="96" source="cnn" target="theflama" weight="1" />
+      <edge id="97" source="cnn" target="privacy" weight="2" />
+      <edge id="98" source="cnn" target="kakinziger13" weight="1" />
+      <edge id="99" source="cnn" target="potus" weight="1" />
+      <edge id="100" source="cnn" target="plannedparenthoodaction" weight="1" />
+      <edge id="101" source="cnn" target="nbcnews" weight="3" />
+      <edge id="102" source="cnn" target="saynotobet" weight="1" />
+      <edge id="103" source="cnn" target="reformimmigrationforamerica" weight="1" />
+      <edge id="104" source="cnn" target="senatorsanders" weight="1" />
+      <edge id="105" source="cnn" target="ufi" weight="11" />
+      <edge id="106" source="cnn" target="dee1music" weight="1" />
+      <edge id="107" source="cnn" target="pages" weight="2" />
+      <edge id="108" source="cnn" target="heidi.bjornlie" weight="1" />
+      <edge id="109" source="cnn" target="barackobama" weight="1" />
+      <edge id="110" source="cnn" target="huffpostwomen" weight="1" />
+      <edge id="111" source="cnn" target="wsj" weight="1" />
+      <edge id="112" source="cnn" target="donaldjtrumpjr" weight="1" />
+      <edge id="113" source="cnn" target="hillaryclinton" weight="2" />
+      <edge id="114" source="cnn" target="daveramsey" weight="1" />
+      <edge id="115" source="cnn" target="berniesanders" weight="1" />
+      <edge id="116" source="cnn" target="seewaymore" weight="1" />
+      <edge id="117" source="cnn" target="johnkasich" weight="1" />
+      <edge id="118" source="cnn" target="businessinsider" weight="1" />
+      <edge id="119" source="cnn" target="officallawrencejones" weight="1" />
+      <edge id="120" source="cnn" target="theatlantic" weight="1" />
+      <edge id="121" source="cnn" target="talkopanreporter" weight="1" />
+      <edge id="122" source="cnn" target="newyorker" weight="1" />
+      <edge id="123" source="cnn" target="search" weight="11" />
+      <edge id="124" source="cnn" target="abcnews" weight="1" />
+      <edge id="125" source="cnn" target="shares" weight="11" />
+      <edge id="126" source="cnn" target="tedcruzpage" weight="2" />
+      <edge id="127" source="cnn" target="media" weight="1" />
+      <edge id="128" source="cnn" target="nowthisnews" weight="2" />
+      <edge id="129" source="cnn" target="mikehuckabee" weight="1" />
+      <edge id="130" source="cnn" target="hashtag" weight="3" />
+      <edge id="131" source="cnn" target="nationalrifleassociation" weight="1" />
+      <edge id="132" source="cnn" target="rbreich" weight="1" />
+      <edge id="133" source="cnn" target="ericscottbaines" weight="1" />
+      <edge id="134" source="cnn" target="womensrightsnews" weight="1" />
+      <edge id="135" source="cnn" target="usatoday" weight="1" />
+      <edge id="136" source="cnn" target="washingtonpost" weight="1" />
+      <edge id="137" source="katiecouric" target="yahoonews" weight="1" />
+      <edge id="138" source="katiecouric" target="yahoo" weight="1" />
+      <edge id="139" source="katiecouric" target="shares" weight="1" />
+      <edge id="140" source="katiecouric" target="scientificamerican" weight="1" />
+      <edge id="141" source="katiecouric" target="theonion" weight="1" />
+      <edge id="142" source="katiecouric" target="ufi" weight="1" />
+      <edge id="143" source="katiecouric" target="search" weight="1" />
+      <edge id="144" source="theguardian" target="shares" weight="1" />
+      <edge id="145" source="theguardian" target="barackobama" weight="1" />
+      <edge id="146" source="theguardian" target="ufi" weight="1" />
+      <edge id="147" source="theguardian" target="search" weight="1" />
+      <edge id="148" source="steveharvey" target="refinery29" weight="1" />
+      <edge id="149" source="steveharvey" target="shares" weight="1" />
+      <edge id="150" source="steveharvey" target="abcnews" weight="1" />
+      <edge id="151" source="steveharvey" target="cbsnews" weight="1" />
+      <edge id="152" source="steveharvey" target="help" weight="1" />
+      <edge id="153" source="steveharvey" target="privacy" weight="1" />
+      <edge id="154" source="steveharvey" target="ufi" weight="1" />
+      <edge id="155" source="steveharvey" target="search" weight="1" />
+      <edge id="156" source="amindsdream" target="shares" weight="1" />
+      <edge id="157" source="amindsdream" target="search" weight="1" />
+      <edge id="158" source="amindsdream" target="ufi" weight="1" />
+      <edge id="159" source="amindsdream" target="latimes" weight="1" />
+      <edge id="160" source="amindsdream" target="financialtimes" weight="1" />
+      <edge id="161" source="motoringmiddleeast" target="lewishamilton" weight="1" />
+      <edge id="162" source="motoringmiddleeast" target="shares" weight="1" />
+      <edge id="163" source="motoringmiddleeast" target="foramerica" weight="1" />
+      <edge id="164" source="motoringmiddleeast" target="ufi" weight="1" />
+      <edge id="165" source="motoringmiddleeast" target="maseratimiddleeast" weight="1" />
+      <edge id="166" source="motoringmiddleeast" target="esquireme" weight="1" />
+      <edge id="167" source="motoringmiddleeast" target="maserati" weight="1" />
+      <edge id="168" source="motoringmiddleeast" target="hashtag" weight="1" />
+      <edge id="169" source="motoringmiddleeast" target="theeconomist" weight="1" />
+      <edge id="170" source="motoringmiddleeast" target="search" weight="1" />
+      <edge id="171" source="motoringmiddleeast" target="nm2255" weight="1" />
+      <edge id="172" source="theatlantic" target="reformimmigrationforamerica" weight="1" />
+      <edge id="173" source="theatlantic" target="shares" weight="1" />
+      <edge id="174" source="theatlantic" target="barackobama" weight="1" />
+      <edge id="175" source="theatlantic" target="abcnews" weight="1" />
+      <edge id="176" source="theatlantic" target="pages" weight="1" />
+      <edge id="177" source="theatlantic" target="hashtag" weight="1" />
+      <edge id="178" source="theatlantic" target="usatoday" weight="1" />
+      <edge id="179" source="theatlantic" target="ufi" weight="1" />
+      <edge id="180" source="theatlantic" target="search" weight="1" />
+      <edge id="181" source="theatlantic" target="kakinziger13" weight="1" />
+      <edge id="182" source="foxnews" target="shares" weight="1" />
+      <edge id="183" source="foxnews" target="officialanncoulter" weight="1" />
+      <edge id="184" source="foxnews" target="nbcnews" weight="1" />
+      <edge id="185" source="foxnews" target="cbsnews" weight="1" />
+      <edge id="186" source="foxnews" target="defineamerican" weight="1" />
+      <edge id="187" source="foxnews" target="hashtag" weight="1" />
+      <edge id="188" source="foxnews" target="ufi" weight="1" />
+      <edge id="189" source="foxnews" target="about" weight="1" />
+      <edge id="190" source="foxnews" target="deutschdoza" weight="1" />
+      <edge id="191" source="foxnews" target="pages" weight="1" />
+      <edge id="192" source="foxnews" target="jav" weight="1" />
+      <edge id="193" source="foxnews" target="ajplusenglish" weight="1" />
+      <edge id="194" source="foxnews" target="officialgrahamnash" weight="1" />
+      <edge id="195" source="foxnews" target="search" weight="1" />
+      <edge id="196" source="defineamerican" target="shares" weight="1" />
+      <edge id="197" source="defineamerican" target="nbcnews" weight="1" />
+      <edge id="198" source="defineamerican" target="pages" weight="1" />
+      <edge id="199" source="defineamerican" target="officialanncoulter" weight="1" />
+      <edge id="200" source="defineamerican" target="officialgrahamnash" weight="1" />
+      <edge id="201" source="defineamerican" target="cbsnews" weight="1" />
+      <edge id="202" source="defineamerican" target="hashtag" weight="1" />
+      <edge id="203" source="defineamerican" target="ufi" weight="1" />
+      <edge id="204" source="defineamerican" target="about" weight="1" />
+      <edge id="205" source="defineamerican" target="deutschdoza" weight="1" />
+      <edge id="206" source="defineamerican" target="jav" weight="1" />
+      <edge id="207" source="defineamerican" target="ajplusenglish" weight="1" />
+      <edge id="208" source="defineamerican" target="search" weight="1" />
+      <edge id="209" source="senatorsanders" target="vox" weight="1" />
+      <edge id="210" source="senatorsanders" target="shares" weight="2" />
+      <edge id="211" source="senatorsanders" target="nbcnews" weight="2" />
+      <edge id="212" source="senatorsanders" target="pages" weight="1" />
+      <edge id="213" source="senatorsanders" target="berniesanders" weight="1" />
+      <edge id="214" source="senatorsanders" target="ufi" weight="2" />
+      <edge id="215" source="senatorsanders" target="search" weight="2" />
+      <edge id="216" source="senatorsanders" target="newyorker" weight="1" />
+      <edge id="217" source="latimes" target="shares" weight="1" />
+      <edge id="218" source="latimes" target="search" weight="1" />
+      <edge id="219" source="latimes" target="ufi" weight="1" />
+      <edge id="220" source="latimes" target="financialtimes" weight="1" />
+      <edge id="221" source="ufi" target="gabe.cornierbridgeforth" weight="1" />
+      <edge id="222" source="ufi" target="rainforestactionnetwork" weight="1" />
+      <edge id="223" source="ufi" target="abcnews" weight="4" />
+      <edge id="224" source="ufi" target="ilikeobamacare" weight="1" />
+      <edge id="225" source="ufi" target="yahoonews" weight="1" />
+      <edge id="226" source="ufi" target="reformimmigrationforamerica" weight="1" />
+      <edge id="227" source="ufi" target="barackobama" weight="3" />
+      <edge id="228" source="ufi" target="mckinley.swift" weight="1" />
+      <edge id="229" source="ufi" target="wsj" weight="4" />
+      <edge id="230" source="ufi" target="hillaryclinton" weight="2" />
+      <edge id="231" source="ufi" target="nm2255" weight="1" />
+      <edge id="232" source="ufi" target="theonion" weight="1" />
+      <edge id="233" source="ufi" target="zchaston.anderson" weight="1" />
+      <edge id="234" source="ufi" target="berniesanders" weight="3" />
+      <edge id="235" source="ufi" target="britany.howell.1" weight="1" />
+      <edge id="236" source="ufi" target="maserati" weight="1" />
+      <edge id="237" source="ufi" target="talkopanreporter" weight="1" />
+      <edge id="238" source="ufi" target="deutschdoza" weight="2" />
+      <edge id="239" source="ufi" target="olivia.c.frey" weight="1" />
+      <edge id="240" source="ufi" target="search" weight="30" />
+      <edge id="241" source="ufi" target="ted" weight="1" />
+      <edge id="242" source="ufi" target="shares" weight="30" />
+      <edge id="243" source="ufi" target="nationalrifleassociation" weight="1" />
+      <edge id="244" source="ufi" target="mikehuckabee" weight="1" />
+      <edge id="245" source="ufi" target="topic" weight="1" />
+      <edge id="246" source="ufi" target="huffingtonpost" weight="3" />
+      <edge id="247" source="ufi" target="refinery29" weight="1" />
+      <edge id="248" source="ufi" target="josh.colvin.73" weight="1" />
+      <edge id="249" source="ufi" target="rbreich" weight="1" />
+      <edge id="250" source="ufi" target="ericscottbaines" weight="1" />
+      <edge id="251" source="ufi" target="travis.m.nelson1" weight="1" />
+      <edge id="252" source="ufi" target="cnnpolitics" weight="3" />
+      <edge id="253" source="ufi" target="scientificamerican" weight="1" />
+      <edge id="254" source="ufi" target="kellygoldenfanpage" weight="1" />
+      <edge id="255" source="ufi" target="help" weight="4" />
+      <edge id="256" source="ufi" target="huffpostpolitics" weight="2" />
+      <edge id="257" source="ufi" target="thehermancain" weight="1" />
+      <edge id="258" source="ufi" target="moyersandcompany" weight="1" />
+      <edge id="259" source="ufi" target="theflama" weight="1" />
+      <edge id="260" source="ufi" target="about" weight="1" />
+      <edge id="261" source="ufi" target="financialtimes" weight="1" />
+      <edge id="262" source="ufi" target="ericbradnercnn" weight="1" />
+      <edge id="263" source="ufi" target="privacy" weight="4" />
+      <edge id="264" source="ufi" target="endowmentethics" weight="1" />
+      <edge id="265" source="ufi" target="kakinziger13" weight="1" />
+      <edge id="266" source="ufi" target="elizabethnbcnews" weight="1" />
+      <edge id="267" source="ufi" target="ted.knaak" weight="1" />
+      <edge id="268" source="ufi" target="lewishamilton" weight="1" />
+      <edge id="269" source="ufi" target="nbcnews" weight="6" />
+      <edge id="270" source="ufi" target="saynotobet" weight="1" />
+      <edge id="271" source="ufi" target="techinsider" weight="1" />
+      <edge id="272" source="ufi" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="273" source="ufi" target="ajplusenglish" weight="2" />
+      <edge id="274" source="ufi" target="gustavusadolphuscollege" weight="1" />
+      <edge id="275" source="ufi" target="dee1music" weight="1" />
+      <edge id="276" source="ufi" target="pages" weight="6" />
+      <edge id="277" source="ufi" target="heidi.bjornlie" weight="1" />
+      <edge id="278" source="ufi" target="theblaze" weight="1" />
+      <edge id="279" source="ufi" target="jav" weight="1" />
+      <edge id="280" source="ufi" target="anton.m.fuchs" weight="1" />
+      <edge id="281" source="ufi" target="seewaymore" weight="1" />
+      <edge id="282" source="ufi" target="donaldjtrumpjr" weight="1" />
+      <edge id="283" source="ufi" target="truthout.org" weight="1" />
+      <edge id="284" source="ufi" target="nowthisnews" weight="3" />
+      <edge id="285" source="ufi" target="potus" weight="1" />
+      <edge id="286" source="ufi" target="daveramsey" weight="1" />
+      <edge id="287" source="ufi" target="breakingnews" weight="1" />
+      <edge id="288" source="ufi" target="plannedparenthoodaction" weight="1" />
+      <edge id="289" source="ufi" target="officialanncoulter" weight="1" />
+      <edge id="290" source="ufi" target="sarita.hernandez.528" weight="1" />
+      <edge id="291" source="ufi" target="hashtag" weight="6" />
+      <edge id="292" source="ufi" target="johnkasich" weight="2" />
+      <edge id="293" source="ufi" target="tom.mccollin" weight="1" />
+      <edge id="294" source="ufi" target="businessinsider" weight="1" />
+      <edge id="295" source="ufi" target="tomilahren" weight="1" />
+      <edge id="296" source="ufi" target="businessinsider.politics" weight="1" />
+      <edge id="297" source="ufi" target="nytopinion" weight="1" />
+      <edge id="298" source="ufi" target="nytimes" weight="1" />
+      <edge id="299" source="ufi" target="emily.sylvestre.3" weight="1" />
+      <edge id="300" source="ufi" target="newyorker" weight="1" />
+      <edge id="301" source="ufi" target="realsimple" weight="1" />
+      <edge id="302" source="ufi" target="huffpostwomen" weight="1" />
+      <edge id="303" source="ufi" target="wsjopinion" weight="1" />
+      <edge id="304" source="ufi" target="yahoo" weight="1" />
+      <edge id="305" source="ufi" target="tedcruzpage" weight="3" />
+      <edge id="306" source="ufi" target="media" weight="1" />
+      <edge id="307" source="ufi" target="cbsnews" weight="2" />
+      <edge id="308" source="ufi" target="mitnews" weight="1" />
+      <edge id="309" source="ufi" target="esquireme" weight="1" />
+      <edge id="310" source="ufi" target="foramerica" weight="1" />
+      <edge id="311" source="ufi" target="michaelalioto.1" weight="1" />
+      <edge id="312" source="ufi" target="vox" weight="3" />
+      <edge id="313" source="ufi" target="theeconomist" weight="1" />
+      <edge id="314" source="ufi" target="maseratimiddleeast" weight="1" />
+      <edge id="315" source="ufi" target="officialgrahamnash" weight="1" />
+      <edge id="316" source="ufi" target="officallawrencejones" weight="1" />
+      <edge id="317" source="ufi" target="womensrightsnews" weight="1" />
+      <edge id="318" source="ufi" target="usatoday" weight="2" />
+      <edge id="319" source="ufi" target="washingtonpost" weight="1" />
+      <edge id="320" source="ilikeobamacare" target="vox" weight="1" />
+      <edge id="321" source="ilikeobamacare" target="pages" weight="1" />
+      <edge id="322" source="ilikeobamacare" target="shares" weight="1" />
+      <edge id="323" source="ilikeobamacare" target="josh.colvin.73" weight="1" />
+      <edge id="324" source="ilikeobamacare" target="nowthisnews" weight="1" />
+      <edge id="325" source="ilikeobamacare" target="barackobama" weight="1" />
+      <edge id="326" source="ilikeobamacare" target="sarita.hernandez.528" weight="1" />
+      <edge id="327" source="ilikeobamacare" target="olivia.c.frey" weight="1" />
+      <edge id="328" source="ilikeobamacare" target="search" weight="1" />
+      <edge id="329" source="ilikeobamacare" target="huffingtonpost" weight="1" />
+      <edge id="330" source="yahoonews" target="yahoo" weight="1" />
+      <edge id="331" source="yahoonews" target="shares" weight="1" />
+      <edge id="332" source="yahoonews" target="scientificamerican" weight="1" />
+      <edge id="333" source="yahoonews" target="theonion" weight="1" />
+      <edge id="334" source="yahoonews" target="search" weight="1" />
+      <edge id="335" source="reformimmigrationforamerica" target="pages" weight="1" />
+      <edge id="336" source="reformimmigrationforamerica" target="shares" weight="1" />
+      <edge id="337" source="reformimmigrationforamerica" target="barackobama" weight="1" />
+      <edge id="338" source="reformimmigrationforamerica" target="abcnews" weight="1" />
+      <edge id="339" source="reformimmigrationforamerica" target="hashtag" weight="1" />
+      <edge id="340" source="reformimmigrationforamerica" target="usatoday" weight="1" />
+      <edge id="341" source="reformimmigrationforamerica" target="search" weight="1" />
+      <edge id="342" source="reformimmigrationforamerica" target="kakinziger13" weight="1" />
+      <edge id="343" source="barackobama" target="shares" weight="3" />
+      <edge id="344" source="barackobama" target="abcnews" weight="1" />
+      <edge id="345" source="barackobama" target="pages" weight="2" />
+      <edge id="346" source="barackobama" target="olivia.c.frey" weight="1" />
+      <edge id="347" source="barackobama" target="hashtag" weight="1" />
+      <edge id="348" source="barackobama" target="sarita.hernandez.528" weight="1" />
+      <edge id="349" source="barackobama" target="huffingtonpost" weight="1" />
+      <edge id="350" source="barackobama" target="vox" weight="1" />
+      <edge id="351" source="barackobama" target="josh.colvin.73" weight="1" />
+      <edge id="352" source="barackobama" target="search" weight="3" />
+      <edge id="353" source="barackobama" target="usatoday" weight="1" />
+      <edge id="354" source="barackobama" target="kakinziger13" weight="1" />
+      <edge id="355" source="barackobama" target="nowthisnews" weight="1" />
+      <edge id="356" source="mckinley.swift" target="wsjopinion" weight="1" />
+      <edge id="357" source="mckinley.swift" target="cnnpolitics" weight="1" />
+      <edge id="358" source="mckinley.swift" target="shares" weight="1" />
+      <edge id="359" source="mckinley.swift" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="360" source="mckinley.swift" target="tomilahren" weight="1" />
+      <edge id="361" source="mckinley.swift" target="theblaze" weight="1" />
+      <edge id="362" source="mckinley.swift" target="wsj" weight="1" />
+      <edge id="363" source="mckinley.swift" target="ericbradnercnn" weight="1" />
+      <edge id="364" source="mckinley.swift" target="huffpostpolitics" weight="1" />
+      <edge id="365" source="mckinley.swift" target="search" weight="1" />
+      <edge id="366" source="wsj" target="hillaryclinton" weight="1" />
+      <edge id="367" source="wsj" target="cnnpolitics" weight="1" />
+      <edge id="368" source="wsj" target="berniesanders" weight="1" />
+      <edge id="369" source="wsj" target="help" weight="1" />
+      <edge id="370" source="wsj" target="huffpostpolitics" weight="1" />
+      <edge id="371" source="wsj" target="businessinsider" weight="1" />
+      <edge id="372" source="wsj" target="tomilahren" weight="1" />
+      <edge id="373" source="wsj" target="rainforestactionnetwork" weight="1" />
+      <edge id="374" source="wsj" target="britany.howell.1" weight="1" />
+      <edge id="375" source="wsj" target="ericbradnercnn" weight="1" />
+      <edge id="376" source="wsj" target="privacy" weight="1" />
+      <edge id="377" source="wsj" target="realsimple" weight="1" />
+      <edge id="378" source="wsj" target="search" weight="4" />
+      <edge id="379" source="wsj" target="media" weight="1" />
+      <edge id="380" source="wsj" target="wsjopinion" weight="1" />
+      <edge id="381" source="wsj" target="shares" weight="4" />
+      <edge id="382" source="wsj" target="moyersandcompany" weight="1" />
+      <edge id="383" source="wsj" target="nbcnews" weight="1" />
+      <edge id="384" source="wsj" target="saynotobet" weight="1" />
+      <edge id="385" source="wsj" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="386" source="wsj" target="topic" weight="1" />
+      <edge id="387" source="wsj" target="mitnews" weight="1" />
+      <edge id="388" source="wsj" target="huffingtonpost" weight="1" />
+      <edge id="389" source="wsj" target="rbreich" weight="1" />
+      <edge id="390" source="wsj" target="theblaze" weight="1" />
+      <edge id="391" source="wsj" target="gabe.cornierbridgeforth" weight="1" />
+      <edge id="392" source="wsj" target="elizabethnbcnews" weight="1" />
+      <edge id="393" source="gabe.cornierbridgeforth" target="shares" weight="1" />
+      <edge id="394" source="gabe.cornierbridgeforth" target="media" weight="1" />
+      <edge id="395" source="gabe.cornierbridgeforth" target="saynotobet" weight="1" />
+      <edge id="396" source="gabe.cornierbridgeforth" target="berniesanders" weight="1" />
+      <edge id="397" source="gabe.cornierbridgeforth" target="help" weight="1" />
+      <edge id="398" source="gabe.cornierbridgeforth" target="businessinsider" weight="1" />
+      <edge id="399" source="gabe.cornierbridgeforth" target="hillaryclinton" weight="1" />
+      <edge id="400" source="gabe.cornierbridgeforth" target="privacy" weight="1" />
+      <edge id="401" source="gabe.cornierbridgeforth" target="search" weight="1" />
+      <edge id="402" source="gabe.cornierbridgeforth" target="rbreich" weight="1" />
+      <edge id="403" source="hillaryclinton" target="shares" weight="2" />
+      <edge id="404" source="hillaryclinton" target="media" weight="1" />
+      <edge id="405" source="hillaryclinton" target="saynotobet" weight="1" />
+      <edge id="406" source="hillaryclinton" target="berniesanders" weight="1" />
+      <edge id="407" source="hillaryclinton" target="help" weight="1" />
+      <edge id="408" source="hillaryclinton" target="businessinsider" weight="1" />
+      <edge id="409" source="hillaryclinton" target="search" weight="2" />
+      <edge id="410" source="hillaryclinton" target="privacy" weight="1" />
+      <edge id="411" source="hillaryclinton" target="rbreich" weight="1" />
+      <edge id="412" source="hillaryclinton" target="nbcnews" weight="1" />
+      <edge id="413" source="nm2255" target="lewishamilton" weight="1" />
+      <edge id="414" source="nm2255" target="shares" weight="1" />
+      <edge id="415" source="nm2255" target="foramerica" weight="1" />
+      <edge id="416" source="nm2255" target="maseratimiddleeast" weight="1" />
+      <edge id="417" source="nm2255" target="esquireme" weight="1" />
+      <edge id="418" source="nm2255" target="maserati" weight="1" />
+      <edge id="419" source="nm2255" target="theeconomist" weight="1" />
+      <edge id="420" source="nm2255" target="hashtag" weight="1" />
+      <edge id="421" source="nm2255" target="search" weight="1" />
+      <edge id="422" source="zchaston.anderson" target="vox" weight="1" />
+      <edge id="423" source="zchaston.anderson" target="pages" weight="1" />
+      <edge id="424" source="zchaston.anderson" target="shares" weight="1" />
+      <edge id="425" source="zchaston.anderson" target="nytopinion" weight="1" />
+      <edge id="426" source="zchaston.anderson" target="nytimes" weight="1" />
+      <edge id="427" source="zchaston.anderson" target="help" weight="1" />
+      <edge id="428" source="zchaston.anderson" target="privacy" weight="1" />
+      <edge id="429" source="zchaston.anderson" target="search" weight="1" />
+      <edge id="430" source="berniesanders" target="ted" weight="1" />
+      <edge id="431" source="berniesanders" target="shares" weight="3" />
+      <edge id="432" source="berniesanders" target="media" weight="1" />
+      <edge id="433" source="berniesanders" target="saynotobet" weight="1" />
+      <edge id="434" source="berniesanders" target="help" weight="1" />
+      <edge id="435" source="berniesanders" target="businessinsider" weight="1" />
+      <edge id="436" source="berniesanders" target="vox" weight="1" />
+      <edge id="437" source="berniesanders" target="rbreich" weight="1" />
+      <edge id="438" source="berniesanders" target="truthout.org" weight="1" />
+      <edge id="439" source="berniesanders" target="privacy" weight="1" />
+      <edge id="440" source="berniesanders" target="search" weight="3" />
+      <edge id="441" source="berniesanders" target="nbcnews" weight="1" />
+      <edge id="442" source="truthout.org" target="ted" weight="1" />
+      <edge id="443" source="truthout.org" target="shares" weight="1" />
+      <edge id="444" source="truthout.org" target="search" weight="1" />
+      <edge id="445" source="endowmentethics" target="shares" weight="1" />
+      <edge id="446" source="endowmentethics" target="anton.m.fuchs" weight="1" />
+      <edge id="447" source="endowmentethics" target="gustavusadolphuscollege" weight="1" />
+      <edge id="448" source="endowmentethics" target="pages" weight="1" />
+      <edge id="449" source="endowmentethics" target="emily.sylvestre.3" weight="1" />
+      <edge id="450" source="endowmentethics" target="search" weight="1" />
+      <edge id="451" source="britany.howell.1" target="shares" weight="1" />
+      <edge id="452" source="britany.howell.1" target="rainforestactionnetwork" weight="1" />
+      <edge id="453" source="britany.howell.1" target="huffingtonpost" weight="1" />
+      <edge id="454" source="britany.howell.1" target="topic" weight="1" />
+      <edge id="455" source="britany.howell.1" target="mitnews" weight="1" />
+      <edge id="456" source="britany.howell.1" target="search" weight="1" />
+      <edge id="457" source="britany.howell.1" target="moyersandcompany" weight="1" />
+      <edge id="458" source="maserati" target="lewishamilton" weight="1" />
+      <edge id="459" source="maserati" target="shares" weight="1" />
+      <edge id="460" source="maserati" target="hashtag" weight="1" />
+      <edge id="461" source="maserati" target="foramerica" weight="1" />
+      <edge id="462" source="maserati" target="maseratimiddleeast" weight="1" />
+      <edge id="463" source="maserati" target="esquireme" weight="1" />
+      <edge id="464" source="maserati" target="theeconomist" weight="1" />
+      <edge id="465" source="maserati" target="search" weight="1" />
+      <edge id="466" source="talkopanreporter" target="cnnpolitics" weight="1" />
+      <edge id="467" source="talkopanreporter" target="shares" weight="1" />
+      <edge id="468" source="talkopanreporter" target="hashtag" weight="1" />
+      <edge id="469" source="talkopanreporter" target="search" weight="1" />
+      <edge id="470" source="talkopanreporter" target="tedcruzpage" weight="1" />
+      <edge id="471" source="deutschdoza" target="ted.knaak" weight="1" />
+      <edge id="472" source="deutschdoza" target="shares" weight="2" />
+      <edge id="473" source="deutschdoza" target="nbcnews" weight="1" />
+      <edge id="474" source="deutschdoza" target="pages" weight="1" />
+      <edge id="475" source="deutschdoza" target="officialanncoulter" weight="1" />
+      <edge id="476" source="deutschdoza" target="huffpostpolitics" weight="1" />
+      <edge id="477" source="deutschdoza" target="hashtag" weight="1" />
+      <edge id="478" source="deutschdoza" target="cbsnews" weight="1" />
+      <edge id="479" source="deutschdoza" target="thehermancain" weight="1" />
+      <edge id="480" source="deutschdoza" target="tom.mccollin" weight="1" />
+      <edge id="481" source="deutschdoza" target="jav" weight="1" />
+      <edge id="482" source="deutschdoza" target="about" weight="1" />
+      <edge id="483" source="deutschdoza" target="ajplusenglish" weight="1" />
+      <edge id="484" source="deutschdoza" target="officialgrahamnash" weight="1" />
+      <edge id="485" source="deutschdoza" target="michaelalioto.1" weight="1" />
+      <edge id="486" source="deutschdoza" target="search" weight="2" />
+      <edge id="487" source="search" target="rainforestactionnetwork" weight="1" />
+      <edge id="488" source="search" target="abcnews" weight="4" />
+      <edge id="489" source="search" target="theonion" weight="1" />
+      <edge id="490" source="search" target="olivia.c.frey" weight="1" />
+      <edge id="491" source="search" target="ted" weight="1" />
+      <edge id="492" source="search" target="shares" weight="30" />
+      <edge id="493" source="search" target="nationalrifleassociation" weight="1" />
+      <edge id="494" source="search" target="mikehuckabee" weight="1" />
+      <edge id="495" source="search" target="topic" weight="1" />
+      <edge id="496" source="search" target="huffingtonpost" weight="3" />
+      <edge id="497" source="search" target="refinery29" weight="1" />
+      <edge id="498" source="search" target="josh.colvin.73" weight="1" />
+      <edge id="499" source="search" target="rbreich" weight="1" />
+      <edge id="500" source="search" target="ericscottbaines" weight="1" />
+      <edge id="501" source="search" target="travis.m.nelson1" weight="1" />
+      <edge id="502" source="search" target="cnnpolitics" weight="3" />
+      <edge id="503" source="search" target="scientificamerican" weight="1" />
+      <edge id="504" source="search" target="kellygoldenfanpage" weight="1" />
+      <edge id="505" source="search" target="help" weight="4" />
+      <edge id="506" source="search" target="huffpostpolitics" weight="2" />
+      <edge id="507" source="search" target="thehermancain" weight="1" />
+      <edge id="508" source="search" target="moyersandcompany" weight="1" />
+      <edge id="509" source="search" target="theflama" weight="1" />
+      <edge id="510" source="search" target="about" weight="1" />
+      <edge id="511" source="search" target="financialtimes" weight="1" />
+      <edge id="512" source="search" target="ericbradnercnn" weight="1" />
+      <edge id="513" source="search" target="privacy" weight="4" />
+      <edge id="514" source="search" target="kakinziger13" weight="1" />
+      <edge id="515" source="search" target="elizabethnbcnews" weight="1" />
+      <edge id="516" source="search" target="ted.knaak" weight="1" />
+      <edge id="517" source="search" target="lewishamilton" weight="1" />
+      <edge id="518" source="search" target="nbcnews" weight="6" />
+      <edge id="519" source="search" target="saynotobet" weight="1" />
+      <edge id="520" source="search" target="techinsider" weight="1" />
+      <edge id="521" source="search" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="522" source="search" target="ajplusenglish" weight="2" />
+      <edge id="523" source="search" target="gustavusadolphuscollege" weight="1" />
+      <edge id="524" source="search" target="dee1music" weight="1" />
+      <edge id="525" source="search" target="pages" weight="6" />
+      <edge id="526" source="search" target="heidi.bjornlie" weight="1" />
+      <edge id="527" source="search" target="theblaze" weight="1" />
+      <edge id="528" source="search" target="jav" weight="1" />
+      <edge id="529" source="search" target="anton.m.fuchs" weight="1" />
+      <edge id="530" source="search" target="seewaymore" weight="1" />
+      <edge id="531" source="search" target="donaldjtrumpjr" weight="1" />
+      <edge id="532" source="search" target="nowthisnews" weight="3" />
+      <edge id="533" source="search" target="potus" weight="1" />
+      <edge id="534" source="search" target="daveramsey" weight="1" />
+      <edge id="535" source="search" target="breakingnews" weight="1" />
+      <edge id="536" source="search" target="plannedparenthoodaction" weight="1" />
+      <edge id="537" source="search" target="officialanncoulter" weight="1" />
+      <edge id="538" source="search" target="sarita.hernandez.528" weight="1" />
+      <edge id="539" source="search" target="hashtag" weight="6" />
+      <edge id="540" source="search" target="johnkasich" weight="2" />
+      <edge id="541" source="search" target="tom.mccollin" weight="1" />
+      <edge id="542" source="search" target="businessinsider" weight="1" />
+      <edge id="543" source="search" target="tomilahren" weight="1" />
+      <edge id="544" source="search" target="businessinsider.politics" weight="1" />
+      <edge id="545" source="search" target="nytopinion" weight="1" />
+      <edge id="546" source="search" target="nytimes" weight="1" />
+      <edge id="547" source="search" target="emily.sylvestre.3" weight="1" />
+      <edge id="548" source="search" target="newyorker" weight="1" />
+      <edge id="549" source="search" target="realsimple" weight="1" />
+      <edge id="550" source="search" target="huffpostwomen" weight="1" />
+      <edge id="551" source="search" target="wsjopinion" weight="1" />
+      <edge id="552" source="search" target="yahoo" weight="1" />
+      <edge id="553" source="search" target="tedcruzpage" weight="3" />
+      <edge id="554" source="search" target="media" weight="1" />
+      <edge id="555" source="search" target="cbsnews" weight="2" />
+      <edge id="556" source="search" target="mitnews" weight="1" />
+      <edge id="557" source="search" target="esquireme" weight="1" />
+      <edge id="558" source="search" target="foramerica" weight="1" />
+      <edge id="559" source="search" target="michaelalioto.1" weight="1" />
+      <edge id="560" source="search" target="vox" weight="3" />
+      <edge id="561" source="search" target="theeconomist" weight="1" />
+      <edge id="562" source="search" target="maseratimiddleeast" weight="1" />
+      <edge id="563" source="search" target="officialgrahamnash" weight="1" />
+      <edge id="564" source="search" target="officallawrencejones" weight="1" />
+      <edge id="565" source="search" target="womensrightsnews" weight="1" />
+      <edge id="566" source="search" target="usatoday" weight="2" />
+      <edge id="567" source="search" target="washingtonpost" weight="1" />
+      <edge id="568" source="media" target="shares" weight="1" />
+      <edge id="569" source="media" target="saynotobet" weight="1" />
+      <edge id="570" source="media" target="help" weight="1" />
+      <edge id="571" source="media" target="businessinsider" weight="1" />
+      <edge id="572" source="media" target="privacy" weight="1" />
+      <edge id="573" source="media" target="rbreich" weight="1" />
+      <edge id="574" source="ted" target="shares" weight="1" />
+      <edge id="575" source="shares" target="rainforestactionnetwork" weight="1" />
+      <edge id="576" source="shares" target="abcnews" weight="4" />
+      <edge id="577" source="shares" target="theonion" weight="1" />
+      <edge id="578" source="shares" target="olivia.c.frey" weight="1" />
+      <edge id="579" source="shares" target="nationalrifleassociation" weight="1" />
+      <edge id="580" source="shares" target="mikehuckabee" weight="1" />
+      <edge id="581" source="shares" target="topic" weight="1" />
+      <edge id="582" source="shares" target="huffingtonpost" weight="3" />
+      <edge id="583" source="shares" target="refinery29" weight="1" />
+      <edge id="584" source="shares" target="josh.colvin.73" weight="1" />
+      <edge id="585" source="shares" target="rbreich" weight="1" />
+      <edge id="586" source="shares" target="ericscottbaines" weight="1" />
+      <edge id="587" source="shares" target="travis.m.nelson1" weight="1" />
+      <edge id="588" source="shares" target="cnnpolitics" weight="3" />
+      <edge id="589" source="shares" target="scientificamerican" weight="1" />
+      <edge id="590" source="shares" target="kellygoldenfanpage" weight="1" />
+      <edge id="591" source="shares" target="help" weight="4" />
+      <edge id="592" source="shares" target="huffpostpolitics" weight="2" />
+      <edge id="593" source="shares" target="thehermancain" weight="1" />
+      <edge id="594" source="shares" target="moyersandcompany" weight="1" />
+      <edge id="595" source="shares" target="theflama" weight="1" />
+      <edge id="596" source="shares" target="about" weight="1" />
+      <edge id="597" source="shares" target="financialtimes" weight="1" />
+      <edge id="598" source="shares" target="ericbradnercnn" weight="1" />
+      <edge id="599" source="shares" target="privacy" weight="4" />
+      <edge id="600" source="shares" target="kakinziger13" weight="1" />
+      <edge id="601" source="shares" target="elizabethnbcnews" weight="1" />
+      <edge id="602" source="shares" target="ted.knaak" weight="1" />
+      <edge id="603" source="shares" target="lewishamilton" weight="1" />
+      <edge id="604" source="shares" target="nbcnews" weight="6" />
+      <edge id="605" source="shares" target="saynotobet" weight="1" />
+      <edge id="606" source="shares" target="techinsider" weight="1" />
+      <edge id="607" source="shares" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="608" source="shares" target="ajplusenglish" weight="2" />
+      <edge id="609" source="shares" target="gustavusadolphuscollege" weight="1" />
+      <edge id="610" source="shares" target="dee1music" weight="1" />
+      <edge id="611" source="shares" target="pages" weight="6" />
+      <edge id="612" source="shares" target="heidi.bjornlie" weight="1" />
+      <edge id="613" source="shares" target="theblaze" weight="1" />
+      <edge id="614" source="shares" target="jav" weight="1" />
+      <edge id="615" source="shares" target="anton.m.fuchs" weight="1" />
+      <edge id="616" source="shares" target="seewaymore" weight="1" />
+      <edge id="617" source="shares" target="donaldjtrumpjr" weight="1" />
+      <edge id="618" source="shares" target="nowthisnews" weight="3" />
+      <edge id="619" source="shares" target="potus" weight="1" />
+      <edge id="620" source="shares" target="daveramsey" weight="1" />
+      <edge id="621" source="shares" target="breakingnews" weight="1" />
+      <edge id="622" source="shares" target="plannedparenthoodaction" weight="1" />
+      <edge id="623" source="shares" target="officialanncoulter" weight="1" />
+      <edge id="624" source="shares" target="sarita.hernandez.528" weight="1" />
+      <edge id="625" source="shares" target="hashtag" weight="6" />
+      <edge id="626" source="shares" target="johnkasich" weight="2" />
+      <edge id="627" source="shares" target="tom.mccollin" weight="1" />
+      <edge id="628" source="shares" target="businessinsider" weight="1" />
+      <edge id="629" source="shares" target="tomilahren" weight="1" />
+      <edge id="630" source="shares" target="businessinsider.politics" weight="1" />
+      <edge id="631" source="shares" target="nytopinion" weight="1" />
+      <edge id="632" source="shares" target="nytimes" weight="1" />
+      <edge id="633" source="shares" target="emily.sylvestre.3" weight="1" />
+      <edge id="634" source="shares" target="newyorker" weight="1" />
+      <edge id="635" source="shares" target="realsimple" weight="1" />
+      <edge id="636" source="shares" target="huffpostwomen" weight="1" />
+      <edge id="637" source="shares" target="wsjopinion" weight="1" />
+      <edge id="638" source="shares" target="yahoo" weight="1" />
+      <edge id="639" source="shares" target="tedcruzpage" weight="3" />
+      <edge id="640" source="shares" target="cbsnews" weight="2" />
+      <edge id="641" source="shares" target="mitnews" weight="1" />
+      <edge id="642" source="shares" target="esquireme" weight="1" />
+      <edge id="643" source="shares" target="foramerica" weight="1" />
+      <edge id="644" source="shares" target="michaelalioto.1" weight="1" />
+      <edge id="645" source="shares" target="vox" weight="3" />
+      <edge id="646" source="shares" target="theeconomist" weight="1" />
+      <edge id="647" source="shares" target="maseratimiddleeast" weight="1" />
+      <edge id="648" source="shares" target="officialgrahamnash" weight="1" />
+      <edge id="649" source="shares" target="officallawrencejones" weight="1" />
+      <edge id="650" source="shares" target="womensrightsnews" weight="1" />
+      <edge id="651" source="shares" target="usatoday" weight="2" />
+      <edge id="652" source="shares" target="washingtonpost" weight="1" />
+      <edge id="653" source="nationalrifleassociation" target="potus" weight="1" />
+      <edge id="654" source="nationalrifleassociation" target="mikehuckabee" weight="1" />
+      <edge id="655" source="mikehuckabee" target="potus" weight="1" />
+      <edge id="656" source="topic" target="rainforestactionnetwork" weight="1" />
+      <edge id="657" source="topic" target="huffingtonpost" weight="1" />
+      <edge id="658" source="topic" target="mitnews" weight="1" />
+      <edge id="659" source="topic" target="moyersandcompany" weight="1" />
+      <edge id="660" source="huffingtonpost" target="abcnews" weight="1" />
+      <edge id="661" source="huffingtonpost" target="pages" weight="1" />
+      <edge id="662" source="huffingtonpost" target="sarita.hernandez.528" weight="1" />
+      <edge id="663" source="huffingtonpost" target="mitnews" weight="1" />
+      <edge id="664" source="huffingtonpost" target="moyersandcompany" weight="1" />
+      <edge id="665" source="huffingtonpost" target="vox" weight="1" />
+      <edge id="666" source="huffingtonpost" target="josh.colvin.73" weight="1" />
+      <edge id="667" source="huffingtonpost" target="rainforestactionnetwork" weight="1" />
+      <edge id="668" source="huffingtonpost" target="nowthisnews" weight="1" />
+      <edge id="669" source="huffingtonpost" target="ajplusenglish" weight="1" />
+      <edge id="670" source="huffingtonpost" target="olivia.c.frey" weight="1" />
+      <edge id="671" source="refinery29" target="abcnews" weight="1" />
+      <edge id="672" source="refinery29" target="cbsnews" weight="1" />
+      <edge id="673" source="refinery29" target="help" weight="1" />
+      <edge id="674" source="refinery29" target="privacy" weight="1" />
+      <edge id="675" source="josh.colvin.73" target="vox" weight="1" />
+      <edge id="676" source="josh.colvin.73" target="pages" weight="1" />
+      <edge id="677" source="josh.colvin.73" target="nowthisnews" weight="1" />
+      <edge id="678" source="josh.colvin.73" target="sarita.hernandez.528" weight="1" />
+      <edge id="679" source="josh.colvin.73" target="olivia.c.frey" weight="1" />
+      <edge id="680" source="rbreich" target="saynotobet" weight="1" />
+      <edge id="681" source="rbreich" target="help" weight="1" />
+      <edge id="682" source="rbreich" target="businessinsider" weight="1" />
+      <edge id="683" source="rbreich" target="privacy" weight="1" />
+      <edge id="684" source="ericscottbaines" target="nowthisnews" weight="1" />
+      <edge id="685" source="ericscottbaines" target="dee1music" weight="1" />
+      <edge id="686" source="ericscottbaines" target="theflama" weight="1" />
+      <edge id="687" source="ericscottbaines" target="seewaymore" weight="1" />
+      <edge id="688" source="ericscottbaines" target="daveramsey" weight="1" />
+      <edge id="689" source="rainforestactionnetwork" target="mitnews" weight="1" />
+      <edge id="690" source="rainforestactionnetwork" target="moyersandcompany" weight="1" />
+      <edge id="691" source="travis.m.nelson1" target="kellygoldenfanpage" weight="1" />
+      <edge id="692" source="travis.m.nelson1" target="breakingnews" weight="1" />
+      <edge id="693" source="cnnpolitics" target="wsjopinion" weight="1" />
+      <edge id="694" source="cnnpolitics" target="tedcruzpage" weight="2" />
+      <edge id="695" source="cnnpolitics" target="huffpostpolitics" weight="1" />
+      <edge id="696" source="cnnpolitics" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="697" source="cnnpolitics" target="hashtag" weight="2" />
+      <edge id="698" source="cnnpolitics" target="johnkasich" weight="1" />
+      <edge id="699" source="cnnpolitics" target="tomilahren" weight="1" />
+      <edge id="700" source="cnnpolitics" target="businessinsider.politics" weight="1" />
+      <edge id="701" source="cnnpolitics" target="ericbradnercnn" weight="1" />
+      <edge id="702" source="cnnpolitics" target="theblaze" weight="1" />
+      <edge id="703" source="scientificamerican" target="yahoo" weight="1" />
+      <edge id="704" source="scientificamerican" target="theonion" weight="1" />
+      <edge id="705" source="kellygoldenfanpage" target="breakingnews" weight="1" />
+      <edge id="706" source="help" target="businessinsider" weight="1" />
+      <edge id="707" source="help" target="nytopinion" weight="1" />
+      <edge id="708" source="help" target="nytimes" weight="1" />
+      <edge id="709" source="help" target="privacy" weight="4" />
+      <edge id="710" source="help" target="plannedparenthoodaction" weight="1" />
+      <edge id="711" source="help" target="saynotobet" weight="1" />
+      <edge id="712" source="help" target="pages" weight="1" />
+      <edge id="713" source="help" target="cbsnews" weight="1" />
+      <edge id="714" source="help" target="vox" weight="1" />
+      <edge id="715" source="help" target="heidi.bjornlie" weight="1" />
+      <edge id="716" source="help" target="abcnews" weight="1" />
+      <edge id="717" source="huffpostpolitics" target="ted.knaak" weight="1" />
+      <edge id="718" source="huffpostpolitics" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="719" source="huffpostpolitics" target="wsjopinion" weight="1" />
+      <edge id="720" source="huffpostpolitics" target="thehermancain" weight="1" />
+      <edge id="721" source="huffpostpolitics" target="tom.mccollin" weight="1" />
+      <edge id="722" source="huffpostpolitics" target="tomilahren" weight="1" />
+      <edge id="723" source="huffpostpolitics" target="theblaze" weight="1" />
+      <edge id="724" source="huffpostpolitics" target="ericbradnercnn" weight="1" />
+      <edge id="725" source="huffpostpolitics" target="michaelalioto.1" weight="1" />
+      <edge id="726" source="thehermancain" target="ted.knaak" weight="1" />
+      <edge id="727" source="thehermancain" target="tom.mccollin" weight="1" />
+      <edge id="728" source="thehermancain" target="michaelalioto.1" weight="1" />
+      <edge id="729" source="moyersandcompany" target="mitnews" weight="1" />
+      <edge id="730" source="theflama" target="dee1music" weight="1" />
+      <edge id="731" source="theflama" target="nowthisnews" weight="1" />
+      <edge id="732" source="theflama" target="seewaymore" weight="1" />
+      <edge id="733" source="theflama" target="daveramsey" weight="1" />
+      <edge id="734" source="about" target="nbcnews" weight="1" />
+      <edge id="735" source="about" target="pages" weight="1" />
+      <edge id="736" source="about" target="officialanncoulter" weight="1" />
+      <edge id="737" source="about" target="cbsnews" weight="1" />
+      <edge id="738" source="about" target="hashtag" weight="1" />
+      <edge id="739" source="about" target="jav" weight="1" />
+      <edge id="740" source="about" target="ajplusenglish" weight="1" />
+      <edge id="741" source="about" target="officialgrahamnash" weight="1" />
+      <edge id="742" source="ericbradnercnn" target="wsjopinion" weight="1" />
+      <edge id="743" source="ericbradnercnn" target="hostile-politics-1525929221068833" weight="1" />
+      <edge id="744" source="ericbradnercnn" target="tomilahren" weight="1" />
+      <edge id="745" source="ericbradnercnn" target="theblaze" weight="1" />
+      <edge id="746" source="privacy" target="businessinsider" weight="1" />
+      <edge id="747" source="privacy" target="nytopinion" weight="1" />
+      <edge id="748" source="privacy" target="nytimes" weight="1" />
+      <edge id="749" source="privacy" target="plannedparenthoodaction" weight="1" />
+      <edge id="750" source="privacy" target="saynotobet" weight="1" />
+      <edge id="751" source="privacy" target="pages" weight="1" />
+      <edge id="752" source="privacy" target="cbsnews" weight="1" />
+      <edge id="753" source="privacy" target="vox" weight="1" />
+      <edge id="754" source="privacy" target="heidi.bjornlie" weight="1" />
+      <edge id="755" source="privacy" target="abcnews" weight="1" />
+      <edge id="756" source="dee1music" target="nowthisnews" weight="1" />
+      <edge id="757" source="dee1music" target="seewaymore" weight="1" />
+      <edge id="758" source="dee1music" target="daveramsey" weight="1" />
+      <edge id="759" source="elizabethnbcnews" target="nbcnews" weight="1" />
+      <edge id="760" source="elizabethnbcnews" target="realsimple" weight="1" />
+      <edge id="761" source="ted.knaak" target="michaelalioto.1" weight="1" />
+      <edge id="762" source="ted.knaak" target="tom.mccollin" weight="1" />
+      <edge id="763" source="lewishamilton" target="hashtag" weight="1" />
+      <edge id="764" source="lewishamilton" target="foramerica" weight="1" />
+      <edge id="765" source="lewishamilton" target="maseratimiddleeast" weight="1" />
+      <edge id="766" source="lewishamilton" target="esquireme" weight="1" />
+      <edge id="767" source="lewishamilton" target="theeconomist" weight="1" />
+      <edge id="768" source="businessinsider.politics" target="hashtag" weight="1" />
+      <edge id="769" source="businessinsider.politics" target="johnkasich" weight="1" />
+      <edge id="770" source="businessinsider.politics" target="tedcruzpage" weight="1" />
+      <edge id="771" source="techinsider" target="usatoday" weight="1" />
+      <edge id="772" source="techinsider" target="abcnews" weight="1" />
+      <edge id="773" source="nbcnews" target="officialanncoulter" weight="1" />
+      <edge id="774" source="nbcnews" target="officialgrahamnash" weight="1" />
+      <edge id="775" source="nbcnews" target="ajplusenglish" weight="1" />
+      <edge id="776" source="nbcnews" target="newyorker" weight="1" />
+      <edge id="777" source="nbcnews" target="realsimple" weight="1" />
+      <edge id="778" source="nbcnews" target="pages" weight="2" />
+      <edge id="779" source="nbcnews" target="cbsnews" weight="1" />
+      <edge id="780" source="nbcnews" target="hashtag" weight="2" />
+      <edge id="781" source="nbcnews" target="vox" weight="1" />
+      <edge id="782" source="nbcnews" target="jav" weight="1" />
+      <edge id="783" source="nbcnews" target="officallawrencejones" weight="1" />
+      <edge id="784" source="abcnews" target="pages" weight="1" />
+      <edge id="785" source="abcnews" target="ajplusenglish" weight="1" />
+      <edge id="786" source="abcnews" target="cbsnews" weight="1" />
+      <edge id="787" source="abcnews" target="hashtag" weight="1" />
+      <edge id="788" source="abcnews" target="kakinziger13" weight="1" />
+      <edge id="789" source="abcnews" target="usatoday" weight="2" />
+      <edge id="790" source="esquireme" target="hashtag" weight="1" />
+      <edge id="791" source="esquireme" target="foramerica" weight="1" />
+      <edge id="792" source="esquireme" target="maseratimiddleeast" weight="1" />
+      <edge id="793" source="esquireme" target="theeconomist" weight="1" />
+      <edge id="794" source="hostile-politics-1525929221068833" target="wsjopinion" weight="1" />
+      <edge id="795" source="hostile-politics-1525929221068833" target="tomilahren" weight="1" />
+      <edge id="796" source="hostile-politics-1525929221068833" target="theblaze" weight="1" />
+      <edge id="797" source="usatoday" target="pages" weight="1" />
+      <edge id="798" source="usatoday" target="hashtag" weight="1" />
+      <edge id="799" source="usatoday" target="kakinziger13" weight="1" />
+      <edge id="800" source="ajplusenglish" target="pages" weight="1" />
+      <edge id="801" source="ajplusenglish" target="officialanncoulter" weight="1" />
+      <edge id="802" source="ajplusenglish" target="cbsnews" weight="1" />
+      <edge id="803" source="ajplusenglish" target="hashtag" weight="1" />
+      <edge id="804" source="ajplusenglish" target="jav" weight="1" />
+      <edge id="805" source="ajplusenglish" target="officialgrahamnash" weight="1" />
+      <edge id="806" source="kakinziger13" target="pages" weight="1" />
+      <edge id="807" source="kakinziger13" target="hashtag" weight="1" />
+      <edge id="808" source="pages" target="officialanncoulter" weight="1" />
+      <edge id="809" source="pages" target="sarita.hernandez.528" weight="1" />
+      <edge id="810" source="pages" target="newyorker" weight="1" />
+      <edge id="811" source="pages" target="nytopinion" weight="1" />
+      <edge id="812" source="pages" target="nytimes" weight="1" />
+      <edge id="813" source="pages" target="emily.sylvestre.3" weight="1" />
+      <edge id="814" source="pages" target="cbsnews" weight="1" />
+      <edge id="815" source="pages" target="hashtag" weight="2" />
+      <edge id="816" source="pages" target="vox" weight="2" />
+      <edge id="817" source="pages" target="olivia.c.frey" weight="1" />
+      <edge id="818" source="pages" target="jav" weight="1" />
+      <edge id="819" source="pages" target="anton.m.fuchs" weight="1" />
+      <edge id="820" source="pages" target="gustavusadolphuscollege" weight="1" />
+      <edge id="821" source="pages" target="officialgrahamnash" weight="1" />
+      <edge id="822" source="pages" target="nowthisnews" weight="1" />
+      <edge id="823" source="heidi.bjornlie" target="plannedparenthoodaction" weight="1" />
+      <edge id="824" source="theblaze" target="wsjopinion" weight="1" />
+      <edge id="825" source="theblaze" target="tomilahren" weight="1" />
+      <edge id="826" source="jav" target="officialanncoulter" weight="1" />
+      <edge id="827" source="jav" target="cbsnews" weight="1" />
+      <edge id="828" source="jav" target="hashtag" weight="1" />
+      <edge id="829" source="jav" target="officialgrahamnash" weight="1" />
+      <edge id="830" source="anton.m.fuchs" target="gustavusadolphuscollege" weight="1" />
+      <edge id="831" source="anton.m.fuchs" target="emily.sylvestre.3" weight="1" />
+      <edge id="832" source="seewaymore" target="nowthisnews" weight="1" />
+      <edge id="833" source="seewaymore" target="daveramsey" weight="1" />
+      <edge id="834" source="donaldjtrumpjr" target="washingtonpost" weight="1" />
+      <edge id="835" source="donaldjtrumpjr" target="johnkasich" weight="1" />
+      <edge id="836" source="donaldjtrumpjr" target="tedcruzpage" weight="1" />
+      <edge id="837" source="gustavusadolphuscollege" target="emily.sylvestre.3" weight="1" />
+      <edge id="838" source="nowthisnews" target="daveramsey" weight="1" />
+      <edge id="839" source="nowthisnews" target="womensrightsnews" weight="1" />
+      <edge id="840" source="nowthisnews" target="sarita.hernandez.528" weight="1" />
+      <edge id="841" source="nowthisnews" target="vox" weight="1" />
+      <edge id="842" source="nowthisnews" target="huffpostwomen" weight="1" />
+      <edge id="843" source="nowthisnews" target="olivia.c.frey" weight="1" />
+      <edge id="844" source="officialanncoulter" target="cbsnews" weight="1" />
+      <edge id="845" source="officialanncoulter" target="hashtag" weight="1" />
+      <edge id="846" source="officialanncoulter" target="officialgrahamnash" weight="1" />
+      <edge id="847" source="johnkasich" target="washingtonpost" weight="1" />
+      <edge id="848" source="johnkasich" target="tedcruzpage" weight="2" />
+      <edge id="849" source="johnkasich" target="hashtag" weight="1" />
+      <edge id="850" source="sarita.hernandez.528" target="vox" weight="1" />
+      <edge id="851" source="sarita.hernandez.528" target="olivia.c.frey" weight="1" />
+      <edge id="852" source="tom.mccollin" target="michaelalioto.1" weight="1" />
+      <edge id="853" source="businessinsider" target="saynotobet" weight="1" />
+      <edge id="854" source="tomilahren" target="wsjopinion" weight="1" />
+      <edge id="855" source="nytopinion" target="vox" weight="1" />
+      <edge id="856" source="nytopinion" target="nytimes" weight="1" />
+      <edge id="857" source="nytimes" target="vox" weight="1" />
+      <edge id="858" source="theonion" target="yahoo" weight="1" />
+      <edge id="859" source="huffpostwomen" target="womensrightsnews" weight="1" />
+      <edge id="860" source="tedcruzpage" target="hashtag" weight="2" />
+      <edge id="861" source="tedcruzpage" target="washingtonpost" weight="1" />
+      <edge id="862" source="cbsnews" target="hashtag" weight="1" />
+      <edge id="863" source="cbsnews" target="officialgrahamnash" weight="1" />
+      <edge id="864" source="hashtag" target="foramerica" weight="1" />
+      <edge id="865" source="hashtag" target="theeconomist" weight="1" />
+      <edge id="866" source="hashtag" target="maseratimiddleeast" weight="1" />
+      <edge id="867" source="hashtag" target="officialgrahamnash" weight="1" />
+      <edge id="868" source="hashtag" target="officallawrencejones" weight="1" />
+      <edge id="869" source="foramerica" target="maseratimiddleeast" weight="1" />
+      <edge id="870" source="foramerica" target="theeconomist" weight="1" />
+      <edge id="871" source="vox" target="olivia.c.frey" weight="1" />
+      <edge id="872" source="theeconomist" target="maseratimiddleeast" weight="1" />
+    </edges>
+  </graph>
+</gexf>
