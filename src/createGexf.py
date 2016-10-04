@@ -21,7 +21,6 @@ def getWebsiteLists():
         
         interactions.append(websites) 
         
-    
     return interactions 
 
         
@@ -40,7 +39,7 @@ def getLinks(file):
         return links
 
 
-badSites = ['hashtag', 'topic', 'pages', 'jack.mccarthy.509', 'privacy', 'help', 'deutschdoza', 'shares', 'search', 'ufi']
+badSites = ['hashtag', 'topic', 'pages', 'jack.mccarthy.509', 'privacy', 'help', 'deutschdoza', 'shares', 'search', 'ufi'] # outliers, mistakes to not be included
 def getWebsite(link):
     link = link.lower()
     website = find_between(link, '://', '/')
@@ -53,9 +52,7 @@ def getWebsite(link):
     #else:
         
     ## FOR FACEBOOK BUT NOT GOOGLE
-        #website = find_between(website, 'www.', '.com')
-               
-        
+        #website = find_between(website, 'www.', '.com')  
         
     return website
 
@@ -103,27 +100,13 @@ def convertToWeightedGraph(M):
 
 
 def main():
-    
     g = createGraph(getWebsiteLists()) # create graph using csv files in current directory
-    #gw = nx.Graph(g)  # converts MultiGraph to a weighted(?) Graph
 
     gw = convertToWeightedGraph(g)
     
-    nx.write_gexf(gw,"GoogleKatie.gexf")
-    
-    #nx.draw(gw) # draws graph    
-    
-    #edgesList = nx.to_edgelist(gw)
-    #print(len(edgesList))
-    #print(edgesList)
-    
+    nx.write_gexf(gw,"GoogleKatie.gexf") # Put name of file to be created here 
     
     
 main()
 
-
-#print(g.degree('duckduckgo.com'))
-
-#getWebsiteLists()
-#print(getLinks('duckExample.csv'))    
-#print(getLinks('googleExample.csv'))    
+  
