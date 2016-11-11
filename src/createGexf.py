@@ -6,7 +6,7 @@ import networkx as nx
 
 
 def getWebsiteLists():
-    
+    """Crawls the current directory to process csv files and turn them into graphs based on the urls and their interactions in each csv."""
     interactions = []
     for file in glob.glob("*.csv"): # Get all csv files in directory
         
@@ -26,7 +26,7 @@ def getWebsiteLists():
         
 
 def getLinks(file):
-
+    """Takes a csv and returns a list of all of the strings in the first column of the csv. """
     with open(file, 'r', encoding='mac_roman') as csvfile:
         readCSV = csv.reader(csvfile, delimiter = ',')
         
@@ -41,24 +41,24 @@ def getLinks(file):
 
 badSites = ['hashtag', 'topic', 'pages', 'jack.mccarthy.509', 'privacy', 'help', 'deutschdoza', 'shares', 'search', 'ufi'] # outliers, mistakes to not be included
 def getWebsite(link):
+    """Takes a url as a string and returns the name of the website as a string."""
     link = link.lower()
     website = find_between(link, '://', '/')
     if website == 'www.google.com':
         return ''
-    #elif website == 'www.facebook.com' or website == 'l.facebook.com':
-        #website = find_between(link, '.com/', '/')
-        #if website in badSites:
-            #website = ''
-    #else:
+    elif website == 'www.facebook.com' or website == 'l.facebook.com':
+        website = find_between(link, '.com/', '/')
+        if website in badSites:
+            website = ''
+    else:
         
-    ## FOR FACEBOOK BUT NOT GOOGLE
-        #website = find_between(website, 'www.', '.com')  
+        website = find_between(website, 'www.', '.com')      # FOR FACEBOOK BUT NOT GOOGLE
         
     return website
 
 
 def find_between( s, first, last):
-    """From StackOverflow, http://stackoverflow.com/questions/3368969/find-string-between-two-substrings"""
+    """Takes a string, a first substring and a last substring and returns a string of all characters in the string between first and last. Adapted from StackOverflow, http://stackoverflow.com/questions/3368969/find-string-between-two-substrings"""
     try:
         start = s.index( first ) + len( first )
         end = s.index( last, start )
@@ -70,7 +70,7 @@ def find_between( s, first, last):
 
 
 def createGraph(interactions):
-
+    """Takes a list of interaction pairs and creates an unweighted networkX graph."""
     graph = nx.MultiGraph()
     for inter in interactions:
         interNoDup = list(set(inter)) # Remove Duplicates
@@ -83,7 +83,7 @@ def createGraph(interactions):
     
     
 def convertToWeightedGraph(M):
-    
+    """Takes an unweighted networkX graph and converts it to a weighted graph."""
     G = nx.Graph()
     for u,v,data in M.edges_iter(data=True):
         w = data['weight']
@@ -96,7 +96,7 @@ def convertToWeightedGraph(M):
     
     
 
-    
+
 
 
 def main():
@@ -104,7 +104,7 @@ def main():
 
     gw = convertToWeightedGraph(g)
     
-    nx.write_gexf(gw,"GoogleKatie.gexf") # Put name of file to be created here 
+    nx.write_gexf(gw,"GoogleKatie.gexf") # Put name of file to be created here, Convert to Gephi Format.
     
     
 main()
